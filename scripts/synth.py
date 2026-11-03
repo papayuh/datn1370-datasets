@@ -44,6 +44,7 @@ def coffee_shop_sales(rng):
         frames.append(pd.DataFrame({
             "date": dates.strftime("%Y-%m-%d"), "shop": shop, "hot_drinks": hot, "iced_drinks": iced,
             "pastries": pastries, "revenue_usd": revenue, "temp_high_f": temp,
+            "day_of_week": DAYS[dates.dayofweek.values],
         }))
     return pd.concat(frames).sort_values("date", kind="stable").reset_index(drop=True)
 
@@ -130,6 +131,7 @@ def streaming_songs(rng):
         "title": titles, "artist": [artists[i] for i in a], "genre": genre, "release_year": year,
         "duration_sec": duration.clip(90, 420).round().astype(int), "tempo_bpm": tempo, "energy": energy,
         "streams_millions": streams.clip(min=0.1).round(1),
+        "release_decade": [f"{y // 10 * 10}s" for y in year],
     })
     return df.sort_values(["title", "artist"]).reset_index(drop=True)
 
@@ -429,5 +431,5 @@ if __name__ == "__main__":
         if want and fn.__name__ not in want:
             continue
         df = fn(np.random.default_rng([1370, i]))
-        df.to_csv(OUT / f"{fn.__name__}.csv", index=False)
+        df.to_csv(OUT / f"{fn.__name__}.csv", index=False, encoding="utf-8", lineterminator="\n")
         print(f"{fn.__name__}: {len(df)} rows x {df.shape[1]} cols")
