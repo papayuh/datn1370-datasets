@@ -275,7 +275,6 @@ Franklin,2005,7,11,69,997,False
 Gert,2005,7,3,46,1005,True
 Harvey,2005,8,13,63,994,False
 Irene,2005,8,15,104,970,False
-Ten,2005,8,6,35,1008,False
 Jose,2005,8,2,58,998,True
 Katrina,2005,8,9,173,902,True
 Lee,2005,8,7,40,1006,False
@@ -284,10 +283,8 @@ Nate,2005,9,8,92,979,False
 Ophelia,2005,9,18,86,976,True
 Philippe,2005,9,8,81,985,False
 Rita,2005,9,9,178,895,True
-Nineteen,2005,9,3,35,1006,False
 Stan,2005,10,5,81,977,True
 Tammy,2005,10,3,52,1001,True
-Twenty-Two,2005,10,7,46,1005,False
 Vince,2005,10,4,75,988,True
 Wilma,2005,10,12,184,882,True
 Alpha,2005,10,3,52,998,True
@@ -314,12 +311,10 @@ Felix,2007,8,7,173,929,True
 Gabrielle,2007,9,4,58,1004,True
 Ingrid,2007,9,7,46,1002,False
 Humberto,2007,9,3,92,985,True
-Ten,2007,9,2,35,1005,True
 Jerry,2007,9,2,40,1003,False
 Karen,2007,9,5,75,988,False
 Lorenzo,2007,9,4,81,990,True
 Melissa,2007,9,8,40,1005,False
-Fifteen,2007,10,7,52,996,False
 Noel,2007,10,14,86,965,True
 Olga,2007,12,7,58,1003,True
 Arthur,2008,5,3,46,1004,True
@@ -337,24 +332,19 @@ Laura,2008,9,9,81,990,False
 Marco,2008,10,2,63,998,True
 Nana,2008,10,4,40,1004,False
 Omar,2008,10,9,132,958,False
-Sixteen,2008,10,3,29,1004,True
 Paloma,2008,11,10,144,944,True
-One,2009,5,5,35,1006,False
 Ana,2009,8,7,40,1003,False
 Bill,2009,8,12,132,943,True
 Claudette,2009,8,2,58,1005,True
 Danny,2009,8,4,58,1006,False
 Erika,2009,9,4,52,1004,True
 Fred,2009,9,13,121,958,False
-Eight,2009,9,2,35,1008,False
 Grace,2009,9,10,63,986,False
 Henri,2009,10,6,52,1005,False
 Ida,2009,11,8,104,975,True
 Alex,2010,6,9,109,946,True
-Two,2010,7,4,35,1005,True
 Bonnie,2010,7,4,46,1005,True
 Colin,2010,8,7,58,1005,False
-Five,2010,8,9,35,1007,False
 Danielle,2010,8,14,132,942,False
 Earl,2010,8,14,144,927,True
 Fiona,2010,8,6,63,998,False
@@ -380,7 +370,6 @@ Franklin,2011,8,5,46,1004,False
 Gert,2011,8,5,63,1000,False
 Harvey,2011,8,4,63,994,True
 Irene,2011,8,10,121,942,True
-Ten,2011,8,3,35,1006,False
 Jose,2011,8,4,46,1006,False
 Katia,2011,8,16,138,942,False
 Lee,2011,9,5,58,986,True
@@ -416,7 +405,6 @@ Dorian,2013,7,14,58,1002,False
 Erin,2013,8,5,46,1006,False
 Fernand,2013,8,2,58,1001,True
 Gabrielle,2013,9,10,63,1003,False
-Eight,2013,9,2,35,1008,True
 Humberto,2013,9,12,92,979,False
 Ingrid,2013,9,6,86,983,True
 Jerry,2013,9,9,52,1005,False
@@ -424,7 +412,6 @@ Karen,2013,10,4,63,998,False
 Lorenzo,2013,10,6,52,1000,False
 Melissa,2013,11,7,63,980,False
 Arthur,2014,6,12,98,973,True
-Two,2014,7,5,35,1012,False
 Bertha,2014,7,12,81,996,True
 Cristobal,2014,8,11,86,963,False
 Dolly,2014,9,4,52,1000,True
@@ -440,7 +427,6 @@ Erika,2015,8,5,52,1001,False
 Fred,2015,8,8,86,986,False
 Grace,2015,9,5,58,1000,False
 Henri,2015,9,4,52,1003,False
-Nine,2015,9,5,35,1006,False
 Ida,2015,9,14,52,1001,False
 Joaquin,2015,9,20,155,931,True
 Kate,2015,11,6,86,980,False
@@ -451,7 +437,6 @@ Danielle,2016,6,4,46,1007,True
 Earl,2016,8,5,86,979,True
 Fiona,2016,8,9,52,1004,False
 Gaston,2016,8,14,121,955,False
-Eight,2016,8,6,35,1010,False
 Hermine,2016,8,12,81,981,True
 Ian,2016,9,6,63,984,False
 Julia,2016,9,9,52,1007,True
@@ -463,7 +448,6 @@ Otto,2016,11,10,115,975,True
 Arlene,2017,4,7,63,986,False
 Bret,2017,6,3,52,1007,True
 Cindy,2017,6,6,58,991,True
-Four,2017,7,3,29,1009,False
 Don,2017,7,2,52,1005,False
 Emily,2017,7,4,58,1001,True
 Franklin,2017,8,5,86,981,True
@@ -488,7 +472,6 @@ Gordon,2018,9,6,69,996,True
 Helene,2018,9,11,109,967,False
 Isaac,2018,9,9,75,995,False
 Joyce,2018,9,10,52,995,False
-Eleven,2018,9,2,35,1007,False
 Kirk,2018,9,7,63,998,True
 Leslie,2018,9,23,92,968,False
 Michael,2018,10,10,161,919,True
@@ -496,7 +479,6 @@ Nadine,2018,10,5,63,995,False
 Oscar,2018,10,10,109,952,False
 Andrea,2019,5,3,40,1006,False
 Barry,2019,7,7,75,993,True
-Three,2019,7,2,35,1013,False
 Chantal,2019,8,7,40,1007,False
 Dorian,2019,8,17,184,910,True
 Erin,2019,8,4,40,1002,False
@@ -508,7 +490,6 @@ Imelda,2019,9,3,46,1003,True
 Karen,2019,9,6,46,1003,True
 Lorenzo,2019,9,13,161,925,False
 Melissa,2019,10,7,63,994,False
-Fifteen,2019,10,4,35,1006,False
 Nestor,2019,10,5,58,996,False
 Olga,2019,10,3,52,992,False
 Pablo,2019,10,7,81,977,False
@@ -523,7 +504,6 @@ Fay,2020,7,7,58,998,True
 Gonzalo,2020,7,6,63,997,True
 Hanna,2020,7,4,92,973,True
 Isaias,2020,7,9,92,986,True
-Ten,2020,7,5,35,1008,False
 Josephine,2020,8,7,46,1004,False
 Kyle,2020,8,3,52,1000,False
 Laura,2020,8,10,150,937,True
@@ -575,8 +555,6 @@ Fiona,2022,9,14,138,931,True
 Gaston,2022,9,9,63,994,False
 Ian,2022,9,10,161,937,True
 Hermine,2022,9,4,40,1003,False
-Eleven,2022,9,4,35,1008,False
-Twelve,2022,10,3,35,1007,False
 Julia,2022,10,5,86,982,True
 Karl,2022,10,5,58,997,False
 Lisa,2022,10,7,92,985,True
@@ -601,7 +579,6 @@ Philippe,2023,9,14,58,998,True
 Rina,2023,9,5,52,999,False
 Sean,2023,10,7,46,1005,False
 Tammy,2023,10,14,109,965,True
-Twenty-One,2023,10,2,29,1007,True
 Alberto,2024,6,4,52,992,True
 Beryl,2024,6,14,167,932,True
 Chris,2024,6,2,46,1005,True

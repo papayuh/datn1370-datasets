@@ -37,6 +37,10 @@ def houston_weather():
         "rain_in": (raw.PRCP / 10 / 25.4).round(2),
         "wind_mph": (raw.AWND / 10 * 2.23694).round(1),
     })
+    month = pd.to_datetime(df.date).dt.month
+    df["season"] = month.map({12: "winter", 1: "winter", 2: "winter", 3: "spring", 4: "spring", 5: "spring",
+                              6: "summer", 7: "summer", 8: "summer", 9: "fall", 10: "fall", 11: "fall"})
+    df["rain_status"] = df.rain_in.gt(0).map({True: "rain", False: "no measurable rain"})
     return df.reset_index(drop=True)
 
 
@@ -54,7 +58,13 @@ def earthquakes():
         "magnitude": raw.mag,
         "place": raw.place,
     })
-    return df.dropna().reset_index(drop=True)
+    df = df.dropna().reset_index(drop=True)
+    # Conventional depth classes; magnitude bands use the reported magnitude (unitless).
+    df["depth_band"] = pd.cut(df.depth_km, [-float("inf"), 70, 300, float("inf")],
+                              labels=["shallow", "intermediate", "deep"], right=False)
+    df["magnitude_band"] = pd.cut(df.magnitude, [5, 6, 7, float("inf")],
+                                  labels=["5.0-5.9", "6.0-6.9", "7.0+"], right=False)
+    return df
 
 
 def exoplanets():
@@ -69,7 +79,8 @@ def exoplanets():
     })
     for c in ["orbit_days", "radius_earths", "mass_earths", "distance_parsecs"]:
         df[c] = df[c].round(3)
-    # keep the 4 methods with plenty of planets so charts by method are readable
+    df["discovery_decade"] = ((df.year_discovered // 10) * 10).astype(str) + "s"
+    # Rank methods after requiring complete measurements; rare sampled groups can remain small.
     df = df[df.discovery_method.isin(df.discovery_method.value_counts().head(4).index)]
     return df.sample(n=min(1500, len(df)), random_state=1).sort_values("planet").reset_index(drop=True)
 
@@ -77,7 +88,21 @@ def exoplanets():
 def gapminder():
     # Gapminder Foundation (CC-BY 4.0) via vega-datasets
     raw = pd.read_json("https://raw.githubusercontent.com/vega/vega-datasets/main/data/gapminder.json")
-    return raw.rename(columns={"pop": "population"}).drop(columns="cluster").reset_index(drop=True)
+    df = raw.rename(columns={"pop": "population"}).drop(columns="cluster").reset_index(drop=True)
+    # Geographic continents (Central America/Caribbean in North America; Georgia/Turkey in Asia).
+    groups = {
+        "Africa": "Egypt|Kenya|Nigeria|Rwanda|South Africa",
+        "Asia": "Afghanistan|Bangladesh|China|Georgia|Hong Kong, China|India|Indonesia|Iran|Iraq|Israel|Japan|Lebanon|North Korea|Pakistan|Philippines|Saudi Arabia|South Korea|Turkey",
+        "Europe": "Austria|Belgium|Croatia|Finland|France|Germany|Greece|Iceland|Ireland|Italy|Netherlands|Norway|Poland|Portugal|Spain|Switzerland|United Kingdom",
+        "North America": "Bahamas|Barbados|Canada|Costa Rica|Cuba|Dominican Republic|El Salvador|Grenada|Haiti|Jamaica|Mexico|United States",
+        "South America": "Argentina|Bolivia|Brazil|Chile|Colombia|Ecuador|Peru|Venezuela",
+        "Oceania": "Australia|New Zealand",
+    }
+    lookup = {country: continent for continent, countries in groups.items() for country in countries.split("|")}
+    df["continent"] = df.country.map(lookup)
+    if df.continent.isna().any():
+        raise ValueError("Add new source countries to the continent lookup before rebuilding")
+    return df
 
 
 def us_states():
@@ -99,6 +124,18 @@ def us_states():
             d.insert(1, "year", year)
             frames.append(d)
     df = pd.concat(frames)
+    # US Census Bureau's four regions, including DC in the South.
+    regions = {
+        "Northeast": "Connecticut|Maine|Massachusetts|New Hampshire|Rhode Island|Vermont|New Jersey|New York|Pennsylvania",
+        "Midwest": "Indiana|Illinois|Michigan|Ohio|Wisconsin|Iowa|Kansas|Minnesota|Missouri|Nebraska|North Dakota|South Dakota",
+        "South": "Delaware|District of Columbia|Florida|Georgia|Maryland|North Carolina|South Carolina|Virginia|West Virginia|Alabama|Kentucky|Mississippi|Tennessee|Arkansas|Louisiana|Oklahoma|Texas",
+        "West": "Arizona|Colorado|Idaho|Montana|Nevada|New Mexico|Utah|Wyoming|Alaska|California|Hawaii|Oregon|Washington",
+    }
+    lookup = {state: region for region, states in regions.items() for state in states.split("|")}
+    df["region"] = df.state.map(lookup)
+    if df.region.isna().any():
+        raise ValueError("Add new source states to the Census region lookup before rebuilding")
+    df["migration_direction"] = df.net_migration.map(lambda n: "net inflow" if n > 0 else "net outflow" if n < 0 else "no change")
     return df.sort_values(["state", "year"]).reset_index(drop=True)
 
 
@@ -113,7 +150,9 @@ def movies():
         "domestic_gross_2013_usd": raw["domgross_2013$"],
         "worldwide_gross_2013_usd": raw["intgross_2013$"],
     })
-    return df.dropna().astype({c: "int64" for c in df.columns if c.endswith("usd")}).reset_index(drop=True)
+    df = df.dropna().astype({c: "int64" for c in df.columns if c.endswith("usd")}).reset_index(drop=True)
+    df["decade"] = ((df.year // 10) * 10).astype(str) + "s"
+    return df
 
 
 def hurricanes():
@@ -127,12 +166,18 @@ def hurricanes():
             storms.append(cur)
         else:
             cur["rows"].append(f)
+    # HURDAT2 also names some depressions by number; these are not named storms.
+    numbers = {"One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten",
+               "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen",
+               "Eighteen", "Nineteen", "Twenty", "Twenty-One", "Twenty-Two", "Twenty-Three",
+               "Twenty-Four", "Twenty-Five", "Twenty-Six", "Twenty-Seven", "Twenty-Eight",
+               "Twenty-Nine", "Thirty", "Thirty-One"}
     out = []
     for s in storms:
         r = s["rows"]
         wind = [int(x[6]) for x in r]
         pres = [int(x[7]) for x in r if int(x[7]) > 0]
-        if s["name"] == "Unnamed" or max(wind) < 0 or not pres:
+        if s["name"] in {"Unnamed", *numbers} or max(wind) < 0 or not pres:
             continue
         start, end = pd.to_datetime(r[0][0]), pd.to_datetime(r[-1][0])
         out.append({
@@ -154,5 +199,5 @@ if __name__ == "__main__":
         if want and fn.__name__ not in want:
             continue
         df = fn()
-        df.to_csv(OUT / f"{fn.__name__}.csv", index=False)
+        df.to_csv(OUT / f"{fn.__name__}.csv", index=False, encoding="utf-8", lineterminator="\n")
         print(f"{fn.__name__}: {len(df)} rows x {df.shape[1]} cols")
