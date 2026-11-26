@@ -1,4 +1,4 @@
-"""Sanity checks for every CSV in data/ (including data/synthetic/). Run: pytest tests/"""
+"""Sanity checks for every CSV in data/ (data/synthetic/ holds legacy copies only). Run: pytest tests/"""
 import csv
 import importlib.util
 import io
@@ -32,16 +32,16 @@ SPECS = {
     "us_states": (["year", "population", "births", "deaths", "net_migration"], ["state", "region", "migration_direction"]),
     "movies": (["year", "budget_2013_usd", "domestic_gross_2013_usd", "worldwide_gross_2013_usd"], ["title", "bechdel_result", "decade"]),
     "hurricanes": (["year", "month", "days_active", "max_wind_mph", "min_pressure_mb"], ["name", "made_landfall"]),
-    "synthetic/coffee_shop_sales": (["hot_drinks", "iced_drinks", "pastries", "revenue_usd", "temp_high_f"], ["date", "shop", "day_of_week"]),
-    "synthetic/gym_members": (["age", "join_month", "visits_month_1", "visits_month_6", "classes_per_month"], ["member_id", "plan", "still_active"]),
-    "synthetic/streaming_songs": (["release_year", "duration_sec", "tempo_bpm", "energy", "streams_millions"], ["title", "artist", "genre", "release_decade"]),
-    "synthetic/rideshare_trips": (["hour", "distance_miles", "duration_min", "fare_usd", "tip_usd", "rating"], ["date", "day_of_week", "pickup_zone"]),
-    "synthetic/used_cars": (["year", "mileage", "price_usd", "owners"], ["make", "body_type", "fuel", "color"]),
-    "synthetic/sneaker_resale": (["release_year", "retail_usd", "resale_usd", "pairs_released_thousands"], ["brand", "model", "collab", "colorway"]),
-    "synthetic/student_budgets": (["work_hours_week", "monthly_income_usd", "rent_usd", "food_usd", "transport_usd", "entertainment_usd", "savings_usd"], ["student_id", "year_in_school", "living"]),
-    "synthetic/social_media_posts": (["followers_thousands", "hour_posted", "caption_words", "hashtags", "likes", "comments", "shares"], ["creator", "post_type", "day_of_week"]),
-    "synthetic/video_game_sales": (["release_year", "critic_score", "price_usd", "units_sold_millions"], ["title", "platform", "genre", "studio_size"]),
-    "synthetic/fast_food_menu": (["calories", "fat_g", "carbs_g", "protein_g", "sodium_mg", "price_usd"], ["chain", "item", "category"]),
+    "coffee_shop_sales": (["hot_drinks", "iced_drinks", "pastries", "revenue_usd", "temp_high_f"], ["date", "shop", "day_of_week"]),
+    "gym_members": (["age", "join_month", "visits_month_1", "visits_month_6", "classes_per_month"], ["member_id", "plan", "still_active"]),
+    "streaming_songs": (["release_year", "duration_sec", "tempo_bpm", "energy", "streams_millions"], ["title", "artist", "genre", "release_decade"]),
+    "rideshare_trips": (["hour", "distance_miles", "duration_min", "fare_usd", "tip_usd", "rating"], ["date", "day_of_week", "pickup_zone"]),
+    "used_cars": (["year", "mileage", "price_usd", "owners"], ["make", "body_type", "fuel", "color"]),
+    "sneaker_resale": (["release_year", "retail_usd", "resale_usd", "pairs_released_thousands"], ["brand", "model", "collab", "colorway"]),
+    "student_budgets": (["work_hours_week", "monthly_income_usd", "rent_usd", "food_usd", "transport_usd", "entertainment_usd", "savings_usd"], ["student_id", "year_in_school", "living"]),
+    "social_media_posts": (["followers_thousands", "hour_posted", "caption_words", "hashtags", "likes", "comments", "shares"], ["creator", "post_type", "day_of_week"]),
+    "video_game_sales": (["release_year", "critic_score", "price_usd", "units_sold_millions"], ["title", "platform", "genre", "studio_size"]),
+    "fast_food_menu": (["calories", "fat_g", "carbs_g", "protein_g", "sodium_mg", "price_usd"], ["chain", "item", "category"]),
 }
 
 
@@ -56,16 +56,16 @@ CHARTS = {
     "us_states": ("region", "migration_direction", "births", "deaths"),
     "movies": ("decade", "bechdel_result", "budget_2013_usd", "worldwide_gross_2013_usd"),
     "hurricanes": ("month", "made_landfall", "max_wind_mph", "min_pressure_mb"),
-    "synthetic/coffee_shop_sales": ("shop", "day_of_week", "temp_high_f", "revenue_usd"),
-    "synthetic/gym_members": ("plan", "still_active", "visits_month_1", "visits_month_6"),
-    "synthetic/streaming_songs": ("genre", "release_decade", "duration_sec", "streams_millions"),
-    "synthetic/rideshare_trips": ("pickup_zone", "day_of_week", "distance_miles", "fare_usd"),
-    "synthetic/used_cars": ("body_type", "fuel", "mileage", "price_usd"),
-    "synthetic/sneaker_resale": ("brand", "collab", "retail_usd", "resale_usd"),
-    "synthetic/student_budgets": ("living", "year_in_school", "monthly_income_usd", "savings_usd"),
-    "synthetic/social_media_posts": ("post_type", "day_of_week", "followers_thousands", "likes"),
-    "synthetic/video_game_sales": ("genre", "studio_size", "critic_score", "units_sold_millions"),
-    "synthetic/fast_food_menu": ("category", "chain", "calories", "sodium_mg"),
+    "coffee_shop_sales": ("shop", "day_of_week", "temp_high_f", "revenue_usd"),
+    "gym_members": ("plan", "still_active", "visits_month_1", "visits_month_6"),
+    "streaming_songs": ("genre", "release_decade", "duration_sec", "streams_millions"),
+    "rideshare_trips": ("pickup_zone", "day_of_week", "distance_miles", "fare_usd"),
+    "used_cars": ("body_type", "fuel", "mileage", "price_usd"),
+    "sneaker_resale": ("brand", "collab", "retail_usd", "resale_usd"),
+    "student_budgets": ("living", "year_in_school", "monthly_income_usd", "savings_usd"),
+    "social_media_posts": ("post_type", "day_of_week", "followers_thousands", "likes"),
+    "video_game_sales": ("genre", "studio_size", "critic_score", "units_sold_millions"),
+    "fast_food_menu": ("category", "chain", "calories", "sodium_mg"),
 }
 
 # Inclusive, deliberately broad domain limits, in the same order as SPECS' numeric columns.
@@ -79,21 +79,21 @@ BOUNDS = {
     "us_states": [(2011, 2024), (1e5, 5e7), (1, 1e6), (1, 1e6), (-1e6, 1e6)],
     "movies": [(1970, 2013), (1, 1e9), (0, 5e9), (0, 1e10)],
     "hurricanes": [(1980, 2025), (1, 12), (1, 60), (39, 250), (800, 1050)],
-    "synthetic/coffee_shop_sales": [(0, 1000), (0, 1000), (0, 1000), (0, 10000), (35, 103)],
-    "synthetic/gym_members": [(18, 75), (1, 12), (1, 62), (0, 62), (0, 31)],
-    "synthetic/streaming_songs": [(2000, 2025), (90, 420), (60, 190), (0, 1), (0.1, 10000)],
-    "synthetic/rideshare_trips": [(0, 23), (0.5, 40), (3, 240), (5, 300), (0, 120), (1, 5)],
-    "synthetic/used_cars": [(1965, 2025), (500, 300000), (1500, 100000), (1, 5)],
-    "synthetic/sneaker_resale": [(2015, 2025), (50, 500), (40, 20000), (2, 800)],
-    "synthetic/student_budgets": [(0, 40), (200, 5000), (0, 2000), (60, 1000), (0, 1000), (10, 1000), (-5000, 5000)],
-    "synthetic/social_media_posts": [(0.5, 5000), (0, 23), (1, 200), (0, 15), (1, 1e7), (0, 1e6), (0, 1e6)],
-    "synthetic/video_game_sales": [(2005, 2025), (0, 100), (0, 100), (0.01, 100)],
-    "synthetic/fast_food_menu": [(40, 1800), (0, 200), (0, 450), (0, 450), (0, 10000), (0, 50)],
+    "coffee_shop_sales": [(0, 1000), (0, 1000), (0, 1000), (0, 10000), (35, 103)],
+    "gym_members": [(18, 75), (1, 12), (1, 62), (0, 62), (0, 31)],
+    "streaming_songs": [(2000, 2025), (90, 420), (60, 190), (0, 1), (0.1, 10000)],
+    "rideshare_trips": [(0, 23), (0.5, 40), (3, 240), (5, 300), (0, 120), (1, 5)],
+    "used_cars": [(1965, 2025), (500, 300000), (1500, 100000), (1, 5)],
+    "sneaker_resale": [(2015, 2025), (50, 500), (40, 20000), (2, 800)],
+    "student_budgets": [(0, 40), (200, 5000), (0, 2000), (60, 1000), (0, 1000), (10, 1000), (-5000, 5000)],
+    "social_media_posts": [(0.5, 5000), (0, 23), (1, 200), (0, 15), (1, 1e7), (0, 1e6), (0, 1e6)],
+    "video_game_sales": [(2005, 2025), (0, 100), (0, 100), (0.01, 100)],
+    "fast_food_menu": [(40, 1800), (0, 200), (0, 450), (0, 450), (0, 10000), (0, 50)],
 }
 
 
 def test_every_csv_is_covered():
-    assert {p.relative_to(DATA).with_suffix("").as_posix() for p in DATA.rglob("*.csv")} == set(SPECS)
+    assert {p.relative_to(DATA).with_suffix("").as_posix() for p in DATA.glob("*.csv")} == set(SPECS)
     assert set(CHARTS) == set(BOUNDS) == set(SPECS)
     assert len(SPECS) == 18
 
@@ -104,7 +104,7 @@ def test_readme_menu_and_chart_picker_match_files():
     assert set(re.findall(re.escape(prefix) + r'([^"\s]+)\.csv', readme)) == set(SPECS)
     for name in SPECS:
         df = pd.read_csv(DATA / f"{name}.csv")
-        short_name = name.split("/")[-1]
+        short_name = name
         menu = next(line for line in readme.splitlines() if line.startswith(f"| **{short_name}** |"))
         cells = [cell.strip() for cell in menu.split("|")]
         assert cells[3] == f"{len(df):,} x {len(df.columns)}"
@@ -176,7 +176,7 @@ def test_derived_categories_and_relationships():
     expected = quakes.magnitude.map(lambda m: "5.0-5.9" if m < 6 else "6.0-6.9" if m < 7 else "7.0+")
     assert quakes.magnitude_band.equals(expected.rename("magnitude_band"))
     for name, year, decade in [("movies", "year", "decade"), ("exoplanets", "year_discovered", "discovery_decade"),
-                               ("synthetic/streaming_songs", "release_year", "release_decade")]:
+                               ("streaming_songs", "release_year", "release_decade")]:
         df = pd.read_csv(DATA / f"{name}.csv")
         assert df[decade].equals((((df[year] // 10) * 10).astype(str) + "s").rename(decade))
     states = pd.read_csv(DATA / "us_states.csv")
@@ -186,9 +186,9 @@ def test_derived_categories_and_relationships():
     assert states.loc[states.state.eq("District of Columbia"), "region"].eq("South").all()
     gap = pd.read_csv(DATA / "gapminder.csv")
     assert gap.groupby("country").continent.nunique().eq(1).all()
-    coffee = pd.read_csv(DATA / "synthetic/coffee_shop_sales.csv")
+    coffee = pd.read_csv(DATA / "coffee_shop_sales.csv")
     assert coffee.day_of_week.tolist() == [synth.DAYS[d] for d in pd.to_datetime(coffee.date).dt.dayofweek]
-    budget = pd.read_csv(DATA / "synthetic/student_budgets.csv")
+    budget = pd.read_csv(DATA / "student_budgets.csv")
     expenses = budget[["rent_usd", "food_usd", "transport_usd", "entertainment_usd"]].sum(axis=1)
     assert budget.savings_usd.equals((budget.monthly_income_usd - expenses).rename("savings_usd"))
     assert budget.savings_usd.lt(0).any()  # documented shortfalls are not missing data
@@ -225,4 +225,11 @@ def test_hurricanes_skip_numbered_and_unnamed_storms(monkeypatch):
 @pytest.mark.parametrize("fn", synth.DATASETS, ids=lambda f: f.__name__)
 def test_synthetic_files_match_script(fn):
     df = fn(np.random.default_rng([1370, synth.DATASETS.index(fn)]))
-    assert df.to_csv(index=False, lineterminator="\n").encode("utf-8") == (DATA / "synthetic" / f"{fn.__name__}.csv").read_bytes()
+    assert df.to_csv(index=False, lineterminator="\n").encode("utf-8") == (DATA / f"{fn.__name__}.csv").read_bytes()
+
+
+@pytest.mark.parametrize("fn", synth.DATASETS, ids=lambda f: f.__name__)
+def test_legacy_synthetic_copy_matches(fn):
+    # old Module 5 notebooks still load data/synthetic/<name>.csv
+    name = f"{fn.__name__}.csv"
+    assert (DATA / "synthetic" / name).read_bytes() == (DATA / name).read_bytes()

@@ -1,11 +1,11 @@
-"""Make the made-up datasets in data/synthetic/. Run: python scripts/synth.py [name ...]"""
+"""Make the made-up datasets in data/. Run: python scripts/synth.py [name ...]"""
 import sys
 from pathlib import Path
 
 import numpy as np
 import pandas as pd
 
-OUT = Path(__file__).resolve().parent.parent / "data" / "synthetic"
+OUT = Path(__file__).resolve().parent.parent / "data"
 DAYS = np.array(["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"])
 
 
