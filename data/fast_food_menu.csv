@@ -1,0 +1,355 @@
+chain,item,category,calories,fat_g,carbs_g,protein_g,sodium_mg,price_usd
+Burger Barn,Ranch Burger,main,530,26.0,48.8,25.1,700,7.99
+Burger Barn,Garden Burger,main,911,43.9,78.4,50.6,1212,7.79
+Burger Barn,Double Stack,main,614,29.2,60.4,27.5,919,8.49
+Burger Barn,Jalapeno Melt,main,1132,50.0,123.3,47.2,1706,7.99
+Burger Barn,Smoky Melt,main,662,34.1,62.7,26.1,726,7.29
+Burger Barn,Southwest Burger,main,753,37.5,79.5,24.4,953,8.99
+Burger Barn,Truffle Burger,main,496,25.7,48.5,17.8,778,6.79
+Burger Barn,Garden Stack,main,931,37.8,103.5,44.1,1273,7.29
+Burger Barn,Classic Stack,main,1034,55.9,95.6,37.2,1536,6.49
+Burger Barn,Crispy Melt,main,636,30.1,62.2,29.2,926,9.49
+Burger Barn,Loaded Burger,main,721,33.5,64.3,40.6,1295,7.49
+Burger Barn,Southwest Melt,main,767,40.4,85.2,15.6,1136,7.29
+Burger Barn,Ranch Stack,main,795,30.4,79.5,50.9,882,6.99
+Burger Barn,BBQ Burger,main,1095,56.5,98.6,48.0,1271,7.99
+Burger Barn,Truffle Melt,main,834,43.1,71.3,40.3,1392,5.79
+Burger Barn,Teriyaki Melt,main,940,44.5,91.4,43.4,1788,6.79
+Burger Barn,Jalapeno Burger,main,861,38.0,85.4,44.4,1222,8.49
+Burger Barn,Cheddar Melt,main,632,28.6,68.9,24.8,1208,7.49
+Burger Barn,Corn,side,459,26.6,53.8,1.2,644,3.79
+Burger Barn,Slaw,side,447,22.2,60.1,1.7,671,3.79
+Burger Barn,Rice,side,393,19.2,43.5,11.7,464,2.49
+Burger Barn,Fries,side,299,12.8,38.9,7.1,436,4.99
+Burger Barn,Curly Fries,side,330,17.1,38.9,5.2,407,2.49
+Burger Barn,Mozzarella Sticks,side,347,15.9,39.0,12.1,459,3.29
+Burger Barn,Tots,side,314,16.9,35.3,5.2,397,3.99
+Burger Barn,Edamame,side,534,24.7,59.7,18.3,840,3.79
+Burger Barn,Onion Rings,side,461,18.8,59.8,13.2,678,3.49
+Burger Barn,Dumplings,side,251,13.3,27.1,5.8,387,4.49
+Burger Barn,Southwest Salad,salad,505,27.1,46.9,18.5,707,11.99
+Burger Barn,Noodle Salad,salad,277,15.4,20.9,13.6,741,8.99
+Burger Barn,Garden Salad,salad,561,29.2,42.4,32.1,886,8.79
+Burger Barn,Greek Salad,salad,515,27.8,30.8,35.4,803,8.79
+Burger Barn,Cobb Salad,salad,797,42.6,63.8,39.5,1246,7.99
+Burger Barn,Harvest Salad,salad,609,33.4,46.9,30.2,843,12.79
+Burger Barn,Brownie,dessert,362,13.2,56.9,4.0,336,3.49
+Burger Barn,Sundae,dessert,472,17.3,68.6,10.5,204,2.49
+Burger Barn,Cheesecake,dessert,364,12.4,54.4,8.6,178,4.79
+Burger Barn,Pie Slice,dessert,432,19.7,59.0,4.8,249,3.29
+Burger Barn,Cinnamon Twist,dessert,360,13.9,50.5,8.3,180,4.79
+Burger Barn,Cookie,dessert,548,20.4,75.6,15.5,330,5.99
+Burger Barn,Mochi,dessert,356,14.0,47.8,9.7,139,3.49
+Burger Barn,Sweet Tea,drink,228,1.7,52.7,0.6,26,1.49
+Burger Barn,Orange Soda,drink,284,1.6,66.7,0.8,46,1.29
+Burger Barn,Diet Cola,drink,320,4.1,68.3,2.4,42,2.99
+Burger Barn,Root Beer,drink,305,1.3,68.0,5.3,47,2.99
+Burger Barn,Smoothie,drink,250,1.0,54.4,5.9,42,2.29
+Burger Barn,Lemonade,drink,375,2.9,85.7,1.4,48,1.99
+Burger Barn,Iced Tea,drink,238,1.3,56.0,0.6,33,2.49
+Burger Barn,Coffee,drink,314,1.1,66.1,9.9,52,2.49
+Burger Barn,Bubble Tea,drink,296,0.3,72.4,0.8,53,2.29
+Burger Barn,Cola,drink,257,2.8,54.1,3.8,33,2.49
+Burger Barn,French Toast Sticks,breakfast,642,30.6,59.5,32.2,654,4.99
+Burger Barn,Breakfast Sandwich,breakfast,784,42.6,70.9,29.3,947,4.49
+Burger Barn,Egg Burrito,breakfast,855,46.6,71.0,38.0,1397,5.99
+Burger Barn,Biscuit,breakfast,501,25.6,48.0,19.6,757,7.49
+Burger Barn,Breakfast Bowl,breakfast,630,31.2,53.5,33.7,872,4.29
+Burger Barn,Yogurt Parfait,breakfast,445,21.2,38.2,25.3,570,3.29
+Burger Barn,Oatmeal,breakfast,577,27.8,50.9,30.7,623,4.99
+Burger Barn,Pancakes,breakfast,449,19.0,51.5,18.0,720,5.79
+Cluck House,Sesame Tenders,main,722,34.6,72.0,30.7,845,7.29
+Cluck House,Crispy Wings,main,1019,47.6,101.7,45.9,2059,7.29
+Cluck House,Honey Tenders,main,907,50.4,85.5,27.9,1457,8.29
+Cluck House,Buffalo Wings,main,761,38.4,65.4,38.5,1258,7.99
+Cluck House,Ranch Tenders,main,558,26.9,49.4,29.5,794,7.49
+Cluck House,BBQ Wings,main,782,38.1,69.2,40.7,989,7.99
+Cluck House,Jalapeno Wings,main,530,29.5,49.1,17.1,797,7.79
+Cluck House,Teriyaki Wings,main,586,29.7,48.6,31.1,1035,6.99
+Cluck House,Double Chicken Sandwich,main,554,23.7,58.9,26.2,581,9.29
+Cluck House,Cheddar Wings,main,627,27.3,59.1,36.1,610,6.49
+Cluck House,Loaded Tenders,main,748,28.4,89.8,33.2,945,7.29
+Cluck House,Honey Chicken Sandwich,main,518,24.7,48.8,25.0,653,6.29
+Cluck House,BBQ Chicken Sandwich,main,982,49.2,85.5,49.4,1376,8.29
+Cluck House,Buffalo Chicken Sandwich,main,584,28.3,52.5,29.8,1234,7.79
+Cluck House,Buffalo Tenders,main,431,18.2,45.7,21.1,486,7.29
+Cluck House,Teriyaki Tenders,main,981,49.4,82.1,51.9,1566,7.29
+Cluck House,Cheddar Tenders,main,498,23.8,45.1,25.8,573,8.29
+Cluck House,Garden Wings,main,818,33.2,90.1,39.8,1008,8.79
+Cluck House,Slaw,side,422,22.9,50.3,3.8,435,3.79
+Cluck House,Edamame,side,382,17.5,44.9,11.1,524,3.49
+Cluck House,Chips,side,302,14.9,37.7,4.3,425,2.29
+Cluck House,Rice,side,334,17.5,42.3,1.8,596,2.29
+Cluck House,Dumplings,side,313,16.4,37.7,3.8,523,2.99
+Cluck House,Mac and Cheese,side,251,14.1,30.4,0.7,431,2.29
+Cluck House,Breadsticks,side,308,15.0,36.2,7.1,329,3.49
+Cluck House,Curly Fries,side,379,19.4,42.2,8.8,596,2.29
+Cluck House,Onion Rings,side,257,14.9,27.1,3.5,544,3.29
+Cluck House,Garlic Knots,side,240,11.3,33.3,1.3,377,2.49
+Cluck House,Garden Salad,salad,484,26.0,39.5,23.0,656,8.29
+Cluck House,Noodle Salad,salad,410,22.0,32.5,20.4,607,9.29
+Cluck House,Taco Salad,salad,564,32.9,39.9,27.0,647,8.99
+Cluck House,Caesar Salad,salad,642,33.4,52.6,32.9,813,7.49
+Cluck House,Greek Salad,salad,442,26.8,31.0,19.3,553,7.49
+Cluck House,Cobb Salad,salad,391,19.4,29.3,25.0,630,6.49
+Cluck House,Cheesecake,dessert,381,14.3,61.9,1.2,209,3.99
+Cluck House,Churro,dessert,393,16.1,55.9,6.1,261,3.29
+Cluck House,Shake,dessert,494,20.7,75.5,1.4,282,3.29
+Cluck House,Brownie,dessert,556,22.1,83.9,5.5,282,4.49
+Cluck House,Pie Slice,dessert,460,18.2,64.2,9.9,195,3.79
+Cluck House,Mochi,dessert,662,25.3,94.7,13.9,564,2.79
+Cluck House,Sundae,dessert,541,21.9,84.7,1.3,397,3.79
+Cluck House,Smoothie,drink,334,3.9,71.6,3.1,59,2.99
+Cluck House,Bubble Tea,drink,263,0.3,64.4,0.7,36,1.49
+Cluck House,Coffee,drink,315,1.2,69.4,6.7,57,2.99
+Cluck House,Orange Soda,drink,232,2.5,51.8,0.5,31,2.29
+Cluck House,Root Beer,drink,163,1.3,35.9,2.0,21,2.79
+Cluck House,Horchata,drink,225,1.2,50.7,2.8,25,1.29
+Cluck House,Diet Cola,drink,287,0.3,68.1,2.9,55,2.99
+Cluck House,Iced Tea,drink,261,0.6,63.3,0.7,51,1.79
+Cluck House,Sweet Tea,drink,147,1.7,32.6,0.4,23,1.29
+Cluck House,Cola,drink,172,1.7,38.7,0.4,27,1.29
+Cluck House,Breakfast Sandwich,breakfast,404,20.2,32.5,23.1,744,5.49
+Cluck House,Oatmeal,breakfast,587,31.2,62.4,14.2,831,4.49
+Cluck House,Pancakes,breakfast,445,22.0,46.8,14.9,718,3.29
+Cluck House,Croissant,breakfast,517,27.9,42.4,24.2,833,3.99
+Cluck House,Hash Browns,breakfast,424,21.3,37.4,20.8,476,5.29
+Cluck House,Egg Burrito,breakfast,458,21.8,40.2,25.3,557,4.49
+Cluck House,Biscuit,breakfast,861,44.0,72.7,43.5,1511,4.29
+Cluck House,Yogurt Parfait,breakfast,436,20.8,42.2,20.1,682,4.49
+Noodle Nook,Jalapeno Noodles,main,858,39.2,95.0,31.2,1087,6.29
+Noodle Nook,Teriyaki Noodles,main,523,23.3,53.5,24.9,936,6.79
+Noodle Nook,Classic Ramen,main,522,23.9,49.0,27.7,778,8.29
+Noodle Nook,Spicy Stir Fry,main,716,31.0,74.3,34.9,956,7.79
+Noodle Nook,Sesame Ramen,main,503,25.2,37.8,31.2,777,7.29
+Noodle Nook,Crispy Noodles,main,501,19.8,52.1,28.6,864,7.99
+Noodle Nook,Double Ramen,main,488,22.7,47.1,23.8,597,6.79
+Noodle Nook,Classic Noodles,main,564,27.1,48.6,31.5,838,9.49
+Noodle Nook,Garden Noodles,main,825,40.0,86.5,29.8,1260,7.99
+Noodle Nook,Crispy Stir Fry,main,622,27.2,70.5,23.7,810,6.79
+Noodle Nook,Cheddar Noodles,main,568,27.4,51.4,29.0,755,10.79
+Noodle Nook,Loaded Ramen,main,710,30.4,67.0,42.0,1384,5.29
+Noodle Nook,Ranch Stir Fry,main,493,25.6,43.7,22.0,772,9.99
+Noodle Nook,Sesame Stir Fry,main,645,30.2,58.5,34.8,1081,5.49
+Noodle Nook,Teriyaki Ramen,main,522,23.8,49.8,27.1,870,8.49
+Noodle Nook,Chipotle Ramen,main,817,41.0,71.1,41.0,994,9.99
+Noodle Nook,Smoky Noodles,main,583,28.7,47.3,33.9,803,7.49
+Noodle Nook,Southwest Noodles,main,495,21.2,50.0,26.0,715,10.79
+Noodle Nook,Dumplings,side,345,19.0,41.6,1.8,457,3.29
+Noodle Nook,Breadsticks,side,299,14.6,37.3,4.7,387,3.29
+Noodle Nook,Mac and Cheese,side,422,22.1,47.5,8.3,499,2.79
+Noodle Nook,Edamame,side,176,7.8,22.4,3.9,197,2.49
+Noodle Nook,Chips,side,325,14.6,38.4,10.1,278,2.79
+Noodle Nook,Tots,side,554,27.5,67.6,9.1,832,3.79
+Noodle Nook,Onion Rings,side,218,12.0,25.6,1.8,326,3.99
+Noodle Nook,Rice,side,292,14.3,40.2,0.7,438,2.99
+Noodle Nook,Curly Fries,side,270,14.9,30.1,3.9,256,2.99
+Noodle Nook,Slaw,side,296,14.0,35.2,7.3,378,3.79
+Noodle Nook,Garden Salad,salad,378,22.3,27.1,17.1,429,9.49
+Noodle Nook,Greek Salad,salad,357,18.7,34.2,12.9,546,8.49
+Noodle Nook,Southwest Salad,salad,495,26.3,36.6,28.1,596,7.29
+Noodle Nook,Harvest Salad,salad,350,18.5,26.5,19.5,450,8.79
+Noodle Nook,Taco Salad,salad,346,17.0,32.5,15.6,455,9.79
+Noodle Nook,Caesar Salad,salad,581,32.9,40.7,30.5,1046,7.49
+Noodle Nook,Sundae,dessert,428,16.3,63.1,7.2,189,3.79
+Noodle Nook,Cookie,dessert,368,14.4,52.3,7.2,132,3.99
+Noodle Nook,Pie Slice,dessert,708,23.4,109.4,15.0,367,3.29
+Noodle Nook,Cheesecake,dessert,483,22.4,68.9,1.3,273,3.29
+Noodle Nook,Brownie,dessert,386,14.5,60.2,3.7,251,3.79
+Noodle Nook,Churro,dessert,438,15.7,62.9,11.4,265,3.99
+Noodle Nook,Mochi,dessert,391,13.4,59.0,8.7,211,3.79
+Noodle Nook,Horchata,drink,221,1.7,49.4,2.0,28,3.29
+Noodle Nook,Diet Cola,drink,238,2.3,53.7,0.6,36,2.49
+Noodle Nook,Bubble Tea,drink,248,1.3,54.0,4.9,25,2.79
+Noodle Nook,Orange Soda,drink,231,2.2,52.2,0.6,51,2.29
+Noodle Nook,Hot Chocolate,drink,135,0.2,32.9,0.5,19,2.99
+Noodle Nook,Lemonade,drink,272,0.5,65.4,1.5,54,1.99
+Noodle Nook,Coffee,drink,351,1.1,84.0,1.4,59,2.99
+Noodle Nook,Sweet Tea,drink,162,1.6,36.4,0.4,25,2.49
+Noodle Nook,Cola,drink,242,2.2,54.5,1.1,36,2.29
+Noodle Nook,Smoothie,drink,191,0.5,43.4,3.2,31,2.79
+Noodle Nook,Oatmeal,breakfast,725,35.3,76.5,25.2,1021,5.49
+Noodle Nook,Breakfast Bowl,breakfast,404,20.1,41.2,14.5,565,3.49
+Noodle Nook,Biscuit,breakfast,494,24.4,44.7,23.9,525,4.79
+Noodle Nook,Hash Browns,breakfast,638,28.8,64.1,30.6,1333,5.29
+Noodle Nook,Yogurt Parfait,breakfast,538,29.6,54.2,13.7,945,5.49
+Noodle Nook,French Toast Sticks,breakfast,328,14.5,31.7,17.6,501,5.79
+Noodle Nook,Egg Burrito,breakfast,344,16.6,36.2,12.4,506,4.99
+Noodle Nook,Pancakes,breakfast,697,37.0,68.4,22.7,781,5.49
+Pie Society,Garden Pizza,main,838,40.0,84.2,35.4,1090,7.49
+Pie Society,Garden Flatbread,main,1103,53.1,97.5,58.8,1856,6.29
+Pie Society,Sesame Pizza,main,913,44.9,80.8,46.3,1302,9.79
+Pie Society,Truffle Pizza,main,802,38.2,74.0,40.6,1213,9.49
+Pie Society,Chipotle Calzone,main,804,41.7,77.7,29.5,796,8.29
+Pie Society,Buffalo Calzone,main,592,30.5,46.7,32.6,574,8.49
+Pie Society,Honey Pizza,main,765,35.7,78.4,32.6,1075,8.99
+Pie Society,Smoky Calzone,main,702,31.1,75.4,30.0,799,9.79
+Pie Society,Spicy Flatbread,main,820,36.0,79.1,45.0,1155,7.29
+Pie Society,Teriyaki Pizza,main,593,27.9,47.5,38.0,1092,8.29
+Pie Society,Cheddar Calzone,main,1554,79.4,141.6,68.2,2241,7.79
+Pie Society,Spicy Calzone,main,811,37.0,73.4,46.1,1060,8.29
+Pie Society,Spicy Pizza,main,669,31.8,61.8,33.8,783,8.99
+Pie Society,BBQ Calzone,main,666,29.5,65.7,34.4,1120,9.79
+Pie Society,Crispy Calzone,main,981,47.5,90.1,48.3,1504,6.29
+Pie Society,BBQ Flatbread,main,585,29.1,51.1,29.8,972,10.99
+Pie Society,Classic Calzone,main,753,34.0,68.8,42.9,891,9.79
+Pie Society,Double Flatbread,main,950,44.6,89.4,47.8,1666,6.79
+Pie Society,Breadsticks,side,247,10.7,30.7,7.0,363,3.29
+Pie Society,Slaw,side,289,13.3,36.8,5.5,413,3.29
+Pie Society,Onion Rings,side,292,13.6,36.4,6.0,402,2.99
+Pie Society,Fries,side,244,11.9,29.7,4.6,273,3.49
+Pie Society,Mac and Cheese,side,288,14.1,33.6,6.8,371,2.49
+Pie Society,Rice,side,333,17.0,36.8,8.2,379,3.49
+Pie Society,Tots,side,244,11.6,30.9,4.1,413,2.29
+Pie Society,Corn,side,343,19.2,36.9,5.7,526,4.99
+Pie Society,Curly Fries,side,399,17.3,53.9,7.0,468,3.99
+Pie Society,Chips,side,383,19.6,47.7,4.1,677,2.99
+Pie Society,Cobb Salad,salad,577,32.0,50.6,21.6,897,9.29
+Pie Society,Noodle Salad,salad,881,46.1,76.6,39.8,1792,11.29
+Pie Society,Greek Salad,salad,446,21.9,36.5,25.8,639,10.29
+Pie Society,Southwest Salad,salad,458,22.7,36.7,26.8,873,9.29
+Pie Society,Harvest Salad,salad,427,22.3,34.8,21.8,680,10.29
+Pie Society,Taco Salad,salad,463,25.2,36.3,22.7,524,10.79
+Pie Society,Shake,dessert,329,13.4,48.0,4.1,193,3.29
+Pie Society,Brownie,dessert,645,28.8,94.8,1.6,458,4.79
+Pie Society,Cookie,dessert,345,13.0,48.3,8.6,242,3.99
+Pie Society,Cheesecake,dessert,331,13.7,44.3,7.6,167,3.99
+Pie Society,Cinnamon Twist,dessert,957,32.1,144.8,22.2,523,4.79
+Pie Society,Mochi,dessert,436,17.5,58.2,11.5,224,5.29
+Pie Society,Sundae,dessert,602,23.8,86.7,10.2,259,3.79
+Pie Society,Hot Chocolate,drink,199,1.3,44.3,2.6,24,2.99
+Pie Society,Coffee,drink,114,1.1,24.2,1.8,15,2.79
+Pie Society,Orange Soda,drink,196,0.7,46.1,1.2,23,2.99
+Pie Society,Smoothie,drink,178,0.7,41.9,1.0,25,2.99
+Pie Society,Bubble Tea,drink,350,4.2,76.8,1.2,42,2.49
+Pie Society,Cola,drink,354,1.3,84.6,1.0,55,2.99
+Pie Society,Horchata,drink,344,2.3,79.8,0.9,43,2.49
+Pie Society,Root Beer,drink,295,1.8,65.7,3.9,76,1.49
+Pie Society,Sweet Tea,drink,304,2.9,68.7,0.8,40,2.99
+Pie Society,Iced Tea,drink,332,2.3,77.0,0.8,50,2.99
+Pie Society,Biscuit,breakfast,620,29.2,60.8,28.5,851,4.99
+Pie Society,Pancakes,breakfast,640,30.6,61.3,29.7,780,6.49
+Pie Society,Breakfast Bowl,breakfast,463,24.3,36.8,24.2,526,5.49
+Pie Society,French Toast Sticks,breakfast,690,33.5,69.1,27.9,1251,6.79
+Pie Society,Croissant,breakfast,682,34.5,60.7,32.3,794,4.29
+Pie Society,Yogurt Parfait,breakfast,575,28.0,60.5,20.3,756,4.49
+Pie Society,Oatmeal,breakfast,568,27.7,59.6,20.2,695,5.99
+Pie Society,Breakfast Sandwich,breakfast,471,24.2,41.7,21.6,709,6.99
+Taco Tempo,Ranch Quesadilla,main,468,24.0,46.6,16.3,700,7.79
+Taco Tempo,Classic Burrito,main,767,34.1,73.5,41.6,1876,6.79
+Taco Tempo,Garden Taco,main,791,39.7,62.4,46.0,1804,6.49
+Taco Tempo,Jalapeno Taco,main,656,25.9,68.2,37.4,1629,8.79
+Taco Tempo,Cheddar Taco,main,917,40.0,92.4,46.8,2556,10.99
+Taco Tempo,Buffalo Taco,main,799,36.7,63.8,53.3,1895,6.79
+Taco Tempo,Buffalo Burrito,main,778,37.3,58.0,52.6,1066,7.49
+Taco Tempo,Chipotle Taco,main,687,29.9,78.0,26.6,1037,11.99
+Taco Tempo,Loaded Quesadilla,main,709,32.9,61.3,42.0,1464,8.99
+Taco Tempo,Smoky Burrito,main,760,37.2,74.9,31.5,2000,6.79
+Taco Tempo,Honey Quesadilla,main,612,35.4,52.6,20.8,1301,7.49
+Taco Tempo,Ranch Burrito,main,604,27.7,56.6,32.0,1254,8.49
+Taco Tempo,Smoky Taco,main,652,35.4,55.7,27.7,1418,6.29
+Taco Tempo,Teriyaki Quesadilla,main,651,28.1,67.1,32.4,1151,7.79
+Taco Tempo,Southwest Quesadilla,main,621,27.8,66.0,26.8,1082,10.49
+Taco Tempo,Crispy Burrito,main,555,26.0,55.6,24.6,1088,7.99
+Taco Tempo,Smoky Quesadilla,main,599,30.0,42.8,39.5,1651,7.29
+Taco Tempo,Ranch Taco,main,614,28.6,63.7,25.4,1393,7.99
+Taco Tempo,Dumplings,side,445,22.0,53.0,8.6,803,3.49
+Taco Tempo,Rice,side,384,17.2,56.2,1.1,712,2.29
+Taco Tempo,Onion Rings,side,275,12.1,34.8,6.8,609,2.79
+Taco Tempo,Slaw,side,306,14.1,39.8,5.0,599,2.29
+Taco Tempo,Fries,side,317,16.9,40.4,0.8,792,3.79
+Taco Tempo,Tots,side,299,13.4,42.8,1.9,612,2.79
+Taco Tempo,Curly Fries,side,235,12.6,27.5,2.9,405,2.49
+Taco Tempo,Chips,side,528,27.1,57.9,13.1,903,3.49
+Taco Tempo,Mozzarella Sticks,side,218,10.5,26.7,4.2,529,2.99
+Taco Tempo,Mac and Cheese,side,406,21.0,53.1,1.0,776,3.79
+Taco Tempo,Garden Salad,salad,364,19.0,27.6,20.8,547,7.29
+Taco Tempo,Harvest Salad,salad,537,33.2,40.2,19.3,1457,8.29
+Taco Tempo,Southwest Salad,salad,715,40.1,60.3,28.3,1806,8.79
+Taco Tempo,Caesar Salad,salad,379,19.7,28.3,22.0,787,13.49
+Taco Tempo,Cobb Salad,salad,384,23.4,30.2,13.2,897,6.49
+Taco Tempo,Chicken Salad,salad,440,26.5,31.8,18.5,974,6.99
+Taco Tempo,Cinnamon Twist,dessert,455,18.7,70.5,1.2,394,3.29
+Taco Tempo,Shake,dessert,413,15.5,64.3,4.0,588,3.99
+Taco Tempo,Cheesecake,dessert,393,15.3,59.5,4.4,311,3.49
+Taco Tempo,Sundae,dessert,555,22.8,79.2,8.4,791,3.29
+Taco Tempo,Brownie,dessert,393,14.5,59.1,6.6,498,4.79
+Taco Tempo,Cookie,dessert,484,18.2,74.4,5.7,367,4.99
+Taco Tempo,Pie Slice,dessert,378,13.8,58.0,5.4,236,3.79
+Taco Tempo,Smoothie,drink,275,2.4,58.1,5.3,34,2.29
+Taco Tempo,Sweet Tea,drink,245,0.3,57.4,3.3,71,1.49
+Taco Tempo,Lemonade,drink,198,1.6,39.6,6.2,38,2.49
+Taco Tempo,Diet Cola,drink,379,1.1,91.2,1.1,97,2.49
+Taco Tempo,Root Beer,drink,179,0.6,43.0,0.5,46,2.99
+Taco Tempo,Cola,drink,196,2.9,42.1,0.5,57,2.29
+Taco Tempo,Iced Tea,drink,240,0.6,58.1,0.6,45,2.29
+Taco Tempo,Horchata,drink,276,1.9,64.0,0.7,53,2.29
+Taco Tempo,Coffee,drink,260,1.8,60.3,0.6,49,2.49
+Taco Tempo,Hot Chocolate,drink,166,0.2,38.1,2.9,36,2.49
+Taco Tempo,Egg Burrito,breakfast,409,20.1,37.9,19.1,921,4.79
+Taco Tempo,Biscuit,breakfast,375,22.4,29.2,14.3,1006,4.29
+Taco Tempo,Hash Browns,breakfast,496,21.4,49.3,26.5,950,4.99
+Taco Tempo,Yogurt Parfait,breakfast,334,15.9,32.1,15.6,657,5.99
+Taco Tempo,Breakfast Sandwich,breakfast,354,17.6,33.2,15.7,866,5.29
+Taco Tempo,Pancakes,breakfast,707,35.5,64.8,32.1,1973,4.29
+Taco Tempo,Breakfast Bowl,breakfast,313,15.4,26.6,17.0,538,4.99
+Taco Tempo,Croissant,breakfast,626,32.8,57.4,25.3,1206,5.79
+Wrap Republic,BBQ Wrap,main,363,17.8,34.9,15.7,491,7.49
+Wrap Republic,Truffle Wrap,main,697,32.8,69.9,30.6,1060,12.29
+Wrap Republic,Sesame Bowl,main,1010,44.8,95.6,56.2,1560,9.79
+Wrap Republic,Honey Wrap,main,379,19.7,38.5,11.9,499,8.49
+Wrap Republic,Buffalo Wrap,main,527,27.6,51.4,18.3,713,10.29
+Wrap Republic,Smoky Bowl,main,405,19.5,34.1,23.2,587,9.79
+Wrap Republic,Garden Bowl,main,427,17.5,43.9,23.5,542,14.99
+Wrap Republic,Jalapeno Pita,main,498,25.1,46.4,21.7,764,10.79
+Wrap Republic,Southwest Bowl,main,419,20.2,43.8,15.4,470,7.49
+Wrap Republic,Truffle Pita,main,670,32.2,63.8,31.3,704,9.79
+Wrap Republic,Classic Bowl,main,566,27.5,55.9,23.7,977,10.79
+Wrap Republic,Double Wrap,main,435,23.4,43.4,12.7,673,10.29
+Wrap Republic,Double Pita,main,594,30.2,57.3,23.3,844,8.79
+Wrap Republic,Honey Bowl,main,542,26.4,45.3,30.9,573,5.49
+Wrap Republic,Classic Wrap,main,579,29.3,57.9,21.0,742,12.29
+Wrap Republic,Classic Pita,main,729,29.0,79.4,37.6,909,10.29
+Wrap Republic,Chipotle Pita,main,671,34.0,58.7,32.7,880,8.29
+Wrap Republic,Chipotle Wrap,main,554,26.8,55.5,22.8,816,8.49
+Wrap Republic,Slaw,side,295,14.8,36.4,4.1,368,3.99
+Wrap Republic,Curly Fries,side,249,12.1,30.7,4.4,431,3.99
+Wrap Republic,Rice,side,447,22.7,49.0,11.6,551,3.99
+Wrap Republic,Fries,side,235,11.6,29.4,3.1,387,3.99
+Wrap Republic,Corn,side,192,10.1,21.8,3.5,243,3.99
+Wrap Republic,Chips,side,195,9.2,25.1,3.1,236,4.49
+Wrap Republic,Onion Rings,side,208,10.2,26.7,2.3,497,3.99
+Wrap Republic,Mac and Cheese,side,346,16.9,40.1,8.3,560,3.79
+Wrap Republic,Dumplings,side,360,16.8,42.8,9.4,430,3.29
+Wrap Republic,Mozzarella Sticks,side,262,15.0,30.4,1.3,304,4.79
+Wrap Republic,Taco Salad,salad,512,28.5,33.0,30.9,816,10.49
+Wrap Republic,Harvest Salad,salad,375,21.6,28.5,16.6,391,10.49
+Wrap Republic,Greek Salad,salad,534,27.4,39.0,32.9,839,12.79
+Wrap Republic,Cobb Salad,salad,538,27.5,44.9,27.6,730,12.99
+Wrap Republic,Noodle Salad,salad,653,40.4,38.9,33.4,813,12.29
+Wrap Republic,Chicken Salad,salad,566,29.8,43.3,31.1,704,8.99
+Wrap Republic,Mochi,dessert,290,11.1,42.8,4.7,142,4.29
+Wrap Republic,Pie Slice,dessert,387,13.3,55.9,10.8,216,5.79
+Wrap Republic,Cookie,dessert,483,20.5,73.5,1.2,406,6.79
+Wrap Republic,Churro,dessert,405,17.2,59.5,2.9,219,5.79
+Wrap Republic,Cheesecake,dessert,459,19.4,67.2,3.9,280,4.99
+Wrap Republic,Cinnamon Twist,dessert,270,9.5,42.0,4.1,251,4.99
+Wrap Republic,Brownie,dessert,345,12.6,53.4,4.5,151,5.99
+Wrap Republic,Root Beer,drink,176,1.9,35.4,4.2,31,2.99
+Wrap Republic,Diet Cola,drink,133,0.6,31.5,0.4,23,2.49
+Wrap Republic,Horchata,drink,229,1.1,51.5,3.3,31,2.99
+Wrap Republic,Lemonade,drink,164,1.4,37.0,0.8,26,2.79
+Wrap Republic,Smoothie,drink,175,0.9,41.2,0.4,22,2.29
+Wrap Republic,Coffee,drink,178,1.8,38.6,1.8,21,2.79
+Wrap Republic,Sweet Tea,drink,152,0.5,36.5,0.4,20,2.79
+Wrap Republic,Cola,drink,195,0.2,46.0,2.2,19,2.79
+Wrap Republic,Bubble Tea,drink,214,3.0,45.3,1.5,27,3.29
+Wrap Republic,Orange Soda,drink,107,0.1,25.1,1.3,13,2.29
+Wrap Republic,Oatmeal,breakfast,462,24.0,35.7,25.8,777,4.79
+Wrap Republic,Biscuit,breakfast,339,16.3,37.2,10.8,500,6.29
+Wrap Republic,Hash Browns,breakfast,330,16.9,29.5,14.9,462,6.29
+Wrap Republic,Croissant,breakfast,412,18.9,42.3,18.1,587,5.79
+Wrap Republic,Pancakes,breakfast,801,42.7,81.8,22.5,1006,7.29
+Wrap Republic,Egg Burrito,breakfast,460,21.7,47.9,18.2,525,6.29
+Wrap Republic,Yogurt Parfait,breakfast,385,20.4,35.7,14.5,405,7.29
+Wrap Republic,Breakfast Bowl,breakfast,423,20.5,42.9,16.6,590,6.79

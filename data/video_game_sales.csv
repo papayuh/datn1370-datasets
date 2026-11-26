@@ -1,0 +1,801 @@
+title,platform,genre,release_year,studio_size,critic_score,price_usd,units_sold_millions
+Astral Circuit,Pocket,action,2005,mid,84,33.99,0.07
+Astral Driftwood,Orbit,sports,2020,major,89,69.99,3.41
+Astral Dungeon,PC,action,2007,indie,70,16.99,0.08
+Astral Expanse,PC,racing,2009,indie,88,9.99,0.05
+Astral Frontier,Orbit,platformer,2010,major,89,59.99,3.0
+Astral Garden,PC,puzzle,2017,mid,81,37.99,0.05
+Astral Kart,Pocket,sports,2008,mid,64,41.99,0.12
+Astral League,PC,simulation,2008,indie,74,4.99,0.02
+Astral Oracle,PC,puzzle,2025,mid,77,42.99,0.06
+Astral Reckoning,Nova,shooter,2018,indie,59,14.99,0.02
+Astral Signal,Pocket,horror,2020,indie,81,10.99,0.03
+Astral Starfall,Pocket,sports,2006,major,74,59.99,0.39
+Astral Vanguard,PC,platformer,2005,major,86,59.99,0.97
+Astral Wasteland,PC,horror,2012,mid,64,54.99,0.09
+Bastion II,Nova,simulation,2020,major,82,69.99,1.92
+Bastion III,Orbit,action,2005,major,66,59.99,0.24
+Bastion IV,Orbit,action,2008,major,80,59.99,1.89
+Bastion V,PC,platformer,2011,indie,62,17.99,0.01
+Bastion of Circuit,PC,rpg,2024,indie,73,13.99,0.02
+Bastion of Citadel,Cloud,rpg,2023,indie,56,12.99,0.02
+Bastion of Driftwood,PC,action,2023,indie,78,4.99,0.29
+Bastion of Expanse,PC,puzzle,2007,mid,83,48.99,0.15
+Bastion of Frontier,Orbit,action,2009,mid,50,45.99,0.06
+Bastion of Garden,Orbit,action,2005,major,86,59.99,2.76
+Bastion of Horizon,Pocket,racing,2020,indie,77,21.99,0.13
+Bastion of Kart,PC,horror,2013,mid,64,32.99,0.08
+Bastion of Kingdom,PC,action,2014,mid,74,33.99,0.03
+Bastion of League,PC,action,2018,indie,57,12.99,0.04
+Bastion of Oracle,Orbit,strategy,2008,mid,75,50.99,1.21
+Bastion of Starfall,PC,horror,2023,mid,84,49.99,0.31
+Bastion of Tidewater,PC,rpg,2022,indie,66,28.99,0.02
+Bastion of Vanguard,Nova,puzzle,2012,major,85,59.99,0.72
+Bastion of Wasteland,Nova,action,2005,indie,68,20.99,0.06
+Bastion: Awakening,PC,sports,2025,indie,77,17.99,0.08
+Bastion: Deep Dive,PC,strategy,2025,major,63,69.99,1.28
+Bastion: Final Lap,Orbit,platformer,2014,indie,89,13.99,0.02
+Bastion: Origins,PC,action,2021,major,64,69.99,0.63
+Bastion: Overdrive,Pocket,simulation,2017,mid,72,34.99,0.54
+Bastion: Rebirth,PC,action,2024,mid,82,33.99,0.24
+Bastion: Shadows Rising,Pocket,racing,2009,mid,82,53.99,0.51
+Bastion: Uprising,Nova,simulation,2019,mid,84,52.99,0.26
+Bastionbound,Orbit,sports,2015,mid,73,38.99,0.08
+Circuit II,Nova,puzzle,2007,mid,86,44.99,0.98
+Circuit III,Orbit,sports,2005,mid,62,41.99,0.17
+Circuit IV,Orbit,sports,2018,indie,80,22.99,0.27
+Circuit V,PC,horror,2018,major,56,59.99,1.03
+Circuit of Bastion,PC,puzzle,2012,indie,44,11.99,0.02
+Circuit of Citadel,PC,rpg,2007,major,50,59.99,0.42
+Circuit of Expanse,Orbit,shooter,2010,major,76,59.99,1.02
+Circuit of Frontier,Nova,sports,2021,indie,76,19.99,0.07
+Circuit of Garden,Orbit,racing,2007,mid,67,38.99,0.43
+Circuit of Horizon,PC,puzzle,2013,major,78,59.99,0.33
+Circuit of Kart,Nova,simulation,2017,major,63,59.99,0.36
+Circuit of League,PC,platformer,2019,indie,82,14.99,0.07
+Circuit of Oracle,Nova,racing,2008,major,94,59.99,0.2
+Circuit of Reckoning,Pocket,horror,2014,major,70,59.99,0.27
+Circuit of Signal,Orbit,sports,2019,mid,61,40.99,0.15
+Circuit of Starfall,Orbit,shooter,2015,major,70,59.99,2.61
+Circuit of Tidewater,PC,platformer,2019,indie,63,9.99,0.01
+Circuit of Vanguard,Pocket,shooter,2012,major,83,59.99,0.09
+Circuit: Awakening,PC,sports,2024,indie,97,12.99,0.05
+Circuit: Deep Dive,Nova,racing,2024,mid,89,44.99,0.13
+Circuit: Final Lap,Nova,shooter,2015,mid,71,44.99,0.45
+Circuit: Legends,PC,strategy,2007,indie,75,13.99,0.02
+Circuit: Origins,Nova,sports,2017,mid,80,52.99,0.4
+Circuit: Overdrive,PC,horror,2009,mid,57,29.99,0.24
+Circuit: Rebirth,Nova,platformer,2010,major,68,59.99,0.18
+Circuit: Reloaded,Orbit,racing,2005,major,85,59.99,0.91
+Circuit: Shadows Rising,PC,simulation,2019,indie,53,19.99,0.01
+Circuit: Uprising,Nova,shooter,2014,major,85,59.99,0.36
+Circuitbound,PC,racing,2024,mid,55,32.99,0.04
+Citadel II,PC,strategy,2012,indie,74,17.99,0.05
+Citadel III,Pocket,puzzle,2013,mid,98,36.99,0.52
+Citadel IV,PC,shooter,2019,mid,69,32.99,0.28
+Citadel V,Orbit,shooter,2018,mid,75,31.99,0.13
+Citadel of Circuit,Pocket,puzzle,2012,mid,90,31.99,0.24
+Citadel of Driftwood,Nova,shooter,2011,major,79,59.99,0.38
+Citadel of Dungeon,Cloud,rpg,2025,indie,57,9.99,0.04
+Citadel of Expanse,Orbit,platformer,2021,indie,69,30.99,0.03
+Citadel of Frontier,Orbit,simulation,2011,major,64,59.99,0.42
+Citadel of Garden,PC,puzzle,2024,indie,87,8.99,0.06
+Citadel of Harvest,Orbit,horror,2013,major,83,59.99,2.48
+Citadel of Horizon,Nova,platformer,2008,mid,78,40.99,0.03
+Citadel of Kingdom,PC,sports,2014,indie,90,17.99,0.03
+Citadel of Oracle,Nova,racing,2017,indie,78,23.99,0.08
+Citadel of Starfall,Pocket,action,2016,indie,69,24.99,0.01
+Citadel of Tidewater,PC,rpg,2025,indie,98,19.99,0.06
+Citadel of Vanguard,Pocket,puzzle,2018,mid,81,41.99,0.07
+Citadel of Wasteland,Orbit,platformer,2021,indie,63,14.99,0.12
+Citadel: Awakening,Nova,strategy,2005,indie,70,15.99,0.28
+Citadel: Deep Dive,Pocket,puzzle,2016,indie,73,19.99,0.02
+Citadel: Final Lap,Pocket,strategy,2005,major,39,59.99,0.26
+Citadel: Legends,PC,rpg,2021,indie,78,24.99,0.02
+Citadel: Origins,Orbit,sports,2017,indie,43,21.99,0.03
+Citadel: Overdrive,Nova,shooter,2022,indie,64,10.99,0.04
+Citadel: Rebirth,Orbit,simulation,2017,mid,80,38.99,0.47
+Citadel: Reloaded,Nova,racing,2017,mid,67,42.99,0.15
+Citadel: Shadows Rising,PC,puzzle,2011,mid,88,51.99,0.38
+Citadel: Uprising,PC,platformer,2025,indie,57,22.99,0.01
+Citadelbound,PC,sports,2021,major,65,69.99,1.78
+Crimson Bastion,Pocket,rpg,2014,mid,55,44.99,0.11
+Crimson Circuit,Nova,racing,2012,major,77,59.99,0.95
+Crimson Citadel,PC,shooter,2016,indie,80,12.99,0.13
+Crimson Driftwood,Pocket,rpg,2019,mid,75,34.99,0.03
+Crimson Dungeon,Nova,rpg,2019,indie,72,4.99,0.01
+Crimson Expanse,Orbit,puzzle,2014,indie,60,26.99,0.03
+Crimson Frontier,Pocket,horror,2018,indie,75,12.99,0.1
+Crimson Garden,Orbit,sports,2018,mid,81,54.99,0.28
+Crimson Harvest,Nova,platformer,2014,mid,69,50.99,0.21
+Crimson Kart,PC,shooter,2012,major,92,59.99,1.29
+Crimson Oracle,Cloud,horror,2024,indie,78,9.99,0.02
+Crimson Reckoning,PC,action,2019,mid,80,47.99,0.06
+Crimson Signal,Nova,simulation,2011,mid,56,31.99,0.39
+Crimson Tidewater,Orbit,sports,2007,mid,69,47.99,0.08
+Driftwood II,Pocket,racing,2019,mid,64,56.99,0.17
+Driftwood III,Pocket,platformer,2025,mid,68,44.99,0.21
+Driftwood IV,PC,simulation,2011,major,76,59.99,0.76
+Driftwood V,PC,simulation,2009,indie,64,23.99,0.01
+Driftwood of Citadel,Pocket,platformer,2017,indie,70,13.99,0.37
+Driftwood of Dungeon,Nova,rpg,2015,major,74,59.99,0.14
+Driftwood of Expanse,Orbit,puzzle,2011,major,90,59.99,6.03
+Driftwood of Frontier,PC,sports,2023,indie,83,13.99,0.16
+Driftwood of Horizon,Nova,racing,2008,indie,77,18.99,0.12
+Driftwood of Oracle,Orbit,strategy,2021,major,54,69.99,1.37
+Driftwood of Reckoning,PC,platformer,2021,mid,70,31.99,0.08
+Driftwood of Signal,PC,horror,2020,indie,98,7.99,0.07
+Driftwood of Starfall,PC,racing,2008,mid,69,42.99,0.07
+Driftwood of Tidewater,PC,strategy,2008,major,75,59.99,1.69
+Driftwood of Vanguard,Orbit,platformer,2022,major,88,69.99,1.46
+Driftwood of Wasteland,PC,rpg,2020,mid,56,41.99,0.06
+Driftwood: Awakening,Pocket,sports,2009,major,81,59.99,0.81
+Driftwood: Deep Dive,Nova,horror,2006,major,73,59.99,0.41
+Driftwood: Final Lap,PC,puzzle,2016,mid,54,32.99,0.21
+Driftwood: Legends,PC,platformer,2025,indie,79,20.99,1.66
+Driftwood: Overdrive,Nova,horror,2015,major,83,59.99,0.46
+Driftwood: Rebirth,Pocket,sports,2019,indie,79,30.99,0.38
+Driftwood: Reloaded,PC,shooter,2021,mid,68,47.99,0.12
+Driftwood: Shadows Rising,PC,puzzle,2014,indie,44,11.99,0.01
+Driftwood: Uprising,PC,racing,2011,indie,88,18.99,0.14
+Driftwoodbound,Orbit,platformer,2020,mid,89,25.99,0.23
+Dungeon II,Nova,strategy,2011,indie,51,17.99,0.01
+Dungeon III,PC,horror,2011,mid,68,49.99,0.03
+Dungeon IV,Orbit,action,2005,major,82,59.99,1.79
+Dungeon V,Orbit,shooter,2010,mid,73,42.99,0.19
+Dungeon of Circuit,PC,horror,2012,indie,84,16.99,0.11
+Dungeon of Driftwood,Pocket,horror,2018,mid,76,30.99,0.18
+Dungeon of Expanse,Pocket,action,2014,mid,42,43.99,0.03
+Dungeon of Frontier,PC,puzzle,2017,major,88,59.99,0.16
+Dungeon of Garden,PC,simulation,2008,major,64,59.99,0.28
+Dungeon of Harvest,Orbit,simulation,2020,indie,75,11.99,0.01
+Dungeon of Horizon,Nova,racing,2007,mid,62,37.99,0.27
+Dungeon of Reckoning,Pocket,rpg,2022,major,64,69.99,0.14
+Dungeon of Signal,Orbit,shooter,2005,major,69,59.99,0.4
+Dungeon of Starfall,Orbit,sports,2013,major,76,59.99,0.29
+Dungeon of Tidewater,PC,platformer,2005,indie,49,22.99,0.04
+Dungeon of Vanguard,Nova,strategy,2008,major,60,59.99,0.11
+Dungeon: Awakening,Nova,shooter,2005,major,88,59.99,2.91
+Dungeon: Deep Dive,Orbit,racing,2009,mid,74,37.99,0.32
+Dungeon: Final Lap,PC,shooter,2025,major,74,69.99,0.98
+Dungeon: Legends,Orbit,puzzle,2016,major,71,59.99,0.17
+Dungeon: Origins,PC,racing,2013,indie,85,17.99,0.04
+Dungeon: Overdrive,Nova,racing,2024,indie,79,13.99,0.04
+Dungeon: Rebirth,Orbit,shooter,2015,major,74,59.99,0.17
+Dungeon: Reloaded,Orbit,shooter,2005,indie,98,11.99,0.03
+Dungeon: Shadows Rising,PC,horror,2007,mid,59,41.99,0.27
+Dungeon: Uprising,Pocket,platformer,2018,major,92,59.99,3.2
+Dungeonbound,Pocket,racing,2005,major,82,59.99,0.93
+Ember Bastion,PC,strategy,2016,major,66,59.99,1.12
+Ember Circuit,Orbit,rpg,2025,major,84,69.99,2.56
+Ember Citadel,PC,strategy,2015,mid,71,29.99,0.25
+Ember Driftwood,Pocket,puzzle,2023,indie,86,20.99,0.08
+Ember Expanse,Nova,simulation,2019,major,81,59.99,0.24
+Ember Horizon,Pocket,puzzle,2022,indie,47,18.99,0.01
+Ember Kart,Orbit,racing,2008,major,69,59.99,0.42
+Ember Kingdom,Nova,platformer,2007,mid,68,49.99,0.03
+Ember League,PC,rpg,2011,indie,82,6.99,0.05
+Ember Signal,Orbit,simulation,2024,indie,63,18.99,0.94
+Ember Starfall,PC,platformer,2007,mid,79,43.99,0.5
+Ember Tidewater,PC,puzzle,2022,indie,81,21.99,0.05
+Ember Vanguard,Nova,sports,2006,major,64,59.99,0.63
+Ember Wasteland,Nova,strategy,2017,mid,80,48.99,0.21
+Expanse II,Orbit,horror,2024,indie,68,19.99,0.01
+Expanse III,PC,simulation,2010,mid,70,38.99,0.08
+Expanse IV,PC,puzzle,2013,mid,70,36.99,0.24
+Expanse V,Orbit,shooter,2025,indie,88,15.99,0.12
+Expanse of Circuit,Nova,rpg,2023,indie,89,16.99,0.02
+Expanse of Citadel,Nova,sports,2020,mid,78,35.99,0.3
+Expanse of Driftwood,Nova,sports,2008,mid,81,30.99,0.57
+Expanse of Dungeon,Nova,action,2012,major,82,59.99,0.52
+Expanse of Frontier,Orbit,simulation,2015,indie,57,21.99,0.01
+Expanse of Garden,Orbit,sports,2005,major,77,59.99,1.76
+Expanse of Harvest,PC,puzzle,2020,mid,74,43.99,0.09
+Expanse of Kingdom,Orbit,puzzle,2018,major,84,59.99,1.52
+Expanse of League,Nova,rpg,2015,major,85,59.99,0.1
+Expanse of Oracle,PC,puzzle,2007,major,60,59.99,0.08
+Expanse of Reckoning,Nova,strategy,2021,mid,56,30.99,0.07
+Expanse of Signal,Orbit,sports,2016,indie,68,20.99,0.02
+Expanse of Starfall,Nova,platformer,2025,major,80,69.99,1.61
+Expanse of Tidewater,Pocket,puzzle,2008,indie,68,14.99,0.01
+Expanse of Vanguard,PC,shooter,2007,indie,85,21.99,2.65
+Expanse: Awakening,PC,puzzle,2013,mid,66,28.99,0.14
+Expanse: Deep Dive,Pocket,simulation,2023,indie,83,9.99,0.05
+Expanse: Final Lap,Nova,racing,2009,major,78,59.99,0.45
+Expanse: Legends,PC,platformer,2014,mid,60,45.99,0.42
+Expanse: Origins,PC,puzzle,2023,indie,37,26.99,0.03
+Expanse: Overdrive,Orbit,rpg,2009,major,66,59.99,1.71
+Expanse: Rebirth,Nova,horror,2011,major,71,59.99,1.32
+Expanse: Shadows Rising,Orbit,sports,2009,major,75,59.99,0.57
+Expanse: Uprising,Orbit,action,2010,mid,63,28.99,0.28
+Expansebound,PC,sports,2016,indie,88,22.99,0.02
+Frontier II,Orbit,sports,2019,mid,88,43.99,0.27
+Frontier III,Nova,sports,2025,mid,83,34.99,0.24
+Frontier IV,Orbit,racing,2023,major,70,69.99,0.23
+Frontier V,PC,racing,2017,mid,80,26.99,0.46
+Frontier of Bastion,Pocket,horror,2016,indie,63,13.99,0.04
+Frontier of Circuit,Pocket,racing,2020,indie,72,11.99,0.04
+Frontier of Citadel,Pocket,shooter,2018,indie,94,21.99,0.07
+Frontier of Driftwood,PC,racing,2007,indie,63,10.99,0.01
+Frontier of Dungeon,PC,puzzle,2022,mid,73,33.99,0.09
+Frontier of Expanse,Orbit,puzzle,2009,major,78,59.99,0.24
+Frontier of Garden,Orbit,platformer,2021,indie,71,14.99,0.01
+Frontier of Harvest,Pocket,rpg,2010,mid,64,44.99,0.28
+Frontier of Horizon,PC,action,2005,mid,56,39.99,0.22
+Frontier of Kart,Orbit,racing,2023,mid,76,31.99,0.23
+Frontier of Kingdom,PC,horror,2019,indie,70,16.99,0.03
+Frontier of League,PC,horror,2014,major,60,59.99,0.63
+Frontier of Oracle,Pocket,puzzle,2014,indie,85,12.99,0.03
+Frontier of Reckoning,Orbit,shooter,2016,indie,83,17.99,0.1
+Frontier of Signal,PC,simulation,2017,indie,61,25.99,0.02
+Frontier of Starfall,Orbit,shooter,2018,mid,84,33.99,0.19
+Frontier of Tidewater,PC,horror,2015,mid,94,41.99,0.69
+Frontier of Vanguard,PC,sports,2012,indie,79,20.99,0.01
+Frontier: Awakening,Nova,action,2014,major,82,59.99,1.06
+Frontier: Deep Dive,Pocket,puzzle,2020,mid,65,34.99,0.03
+Frontier: Final Lap,Orbit,racing,2025,major,75,69.99,1.26
+Frontier: Legends,Nova,shooter,2019,major,79,59.99,1.61
+Frontier: Origins,PC,strategy,2018,indie,86,9.99,0.09
+Frontier: Overdrive,Pocket,platformer,2007,mid,84,42.99,0.07
+Frontier: Rebirth,Nova,racing,2025,indie,57,14.99,0.02
+Frontier: Reloaded,PC,simulation,2007,mid,83,41.99,0.36
+Frontier: Shadows Rising,PC,shooter,2015,indie,77,5.99,0.03
+Frontier: Uprising,PC,racing,2010,indie,78,18.99,0.04
+Frontierbound,Cloud,racing,2022,mid,74,25.99,0.2
+Frozen Circuit,Pocket,puzzle,2010,indie,71,16.99,0.05
+Frozen Driftwood,PC,simulation,2007,mid,56,36.99,0.03
+Frozen Dungeon,Pocket,rpg,2021,indie,78,21.99,0.32
+Frozen Expanse,Nova,simulation,2021,mid,80,35.99,0.06
+Frozen Frontier,PC,action,2010,mid,68,36.99,0.18
+Frozen Harvest,Pocket,strategy,2011,mid,67,33.99,0.06
+Frozen Horizon,Nova,sports,2017,major,69,59.99,2.67
+Frozen Kart,Nova,horror,2013,major,83,59.99,3.89
+Frozen Oracle,PC,simulation,2013,indie,62,16.99,0.01
+Frozen Reckoning,PC,action,2018,indie,58,14.99,0.02
+Frozen Signal,Nova,shooter,2012,major,93,59.99,2.18
+Frozen Starfall,Orbit,strategy,2012,mid,93,44.99,0.51
+Frozen Tidewater,Pocket,puzzle,2006,mid,76,43.99,0.08
+Frozen Vanguard,PC,simulation,2020,indie,77,20.99,0.2
+Frozen Wasteland,Nova,shooter,2015,indie,74,16.99,0.07
+Garden II,Cloud,racing,2025,indie,77,11.99,0.02
+Garden III,PC,action,2017,indie,92,23.99,0.21
+Garden IV,Pocket,sports,2025,indie,83,11.99,0.08
+Garden V,Orbit,platformer,2008,major,73,59.99,1.87
+Garden of Bastion,PC,simulation,2019,mid,81,40.99,0.24
+Garden of Driftwood,Orbit,sports,2023,indie,78,21.99,0.01
+Garden of Frontier,Nova,strategy,2006,major,59,59.99,1.36
+Garden of Horizon,PC,shooter,2008,mid,77,28.99,0.12
+Garden of Kingdom,Pocket,action,2022,indie,60,18.99,0.01
+Garden of League,Cloud,puzzle,2020,indie,56,15.99,0.02
+Garden of Oracle,Pocket,platformer,2024,major,82,69.99,0.12
+Garden of Reckoning,Orbit,rpg,2013,major,72,59.99,0.35
+Garden of Signal,PC,rpg,2020,indie,60,21.99,0.01
+Garden of Vanguard,Orbit,horror,2020,indie,83,12.99,0.05
+Garden of Wasteland,Nova,shooter,2017,mid,84,39.99,0.11
+Garden: Awakening,Orbit,simulation,2018,mid,85,42.99,0.45
+Garden: Deep Dive,PC,shooter,2015,mid,80,42.99,0.5
+Garden: Final Lap,Orbit,sports,2022,mid,63,35.99,0.35
+Garden: Legends,PC,strategy,2015,indie,67,16.99,0.08
+Garden: Origins,Nova,puzzle,2016,major,90,59.99,0.59
+Garden: Overdrive,Orbit,action,2006,mid,69,39.99,0.31
+Garden: Rebirth,Nova,sports,2017,indie,67,16.99,0.1
+Garden: Reloaded,Pocket,puzzle,2025,mid,71,48.99,0.04
+Garden: Shadows Rising,PC,strategy,2010,mid,61,35.99,0.07
+Garden: Uprising,Orbit,strategy,2005,major,69,59.99,1.75
+Gardenbound,PC,rpg,2019,indie,60,20.99,0.02
+Harvest II,Orbit,shooter,2008,major,77,59.99,3.57
+Harvest III,Nova,strategy,2024,indie,78,12.99,0.03
+Harvest IV,Orbit,sports,2017,major,90,59.99,1.02
+Harvest V,Orbit,puzzle,2016,major,78,59.99,0.11
+Harvest of Bastion,PC,shooter,2007,major,63,59.99,0.43
+Harvest of Circuit,Cloud,rpg,2024,indie,53,4.99,0.01
+Harvest of Citadel,PC,platformer,2019,indie,83,19.99,0.04
+Harvest of Driftwood,PC,puzzle,2015,indie,65,16.99,0.02
+Harvest of Dungeon,PC,strategy,2018,mid,72,43.99,0.12
+Harvest of Frontier,PC,puzzle,2011,major,73,59.99,0.12
+Harvest of Horizon,PC,platformer,2010,indie,79,18.99,0.06
+Harvest of Kart,PC,horror,2005,major,78,59.99,0.14
+Harvest of Kingdom,Nova,sports,2017,major,76,59.99,4.26
+Harvest of Reckoning,PC,sports,2016,mid,91,41.99,0.15
+Harvest of Signal,Orbit,platformer,2025,major,76,69.99,0.47
+Harvest of Starfall,Nova,simulation,2019,indie,88,19.99,0.18
+Harvest of Tidewater,PC,action,2020,indie,65,14.99,0.05
+Harvest of Vanguard,PC,rpg,2015,indie,60,16.99,0.04
+Harvest of Wasteland,Pocket,platformer,2024,major,73,69.99,0.99
+Harvest: Awakening,Pocket,shooter,2014,indie,75,21.99,0.1
+Harvest: Deep Dive,PC,strategy,2008,major,60,59.99,0.15
+Harvest: Final Lap,PC,strategy,2018,indie,70,18.99,0.01
+Harvest: Legends,Nova,horror,2021,mid,71,50.99,0.23
+Harvest: Origins,Orbit,simulation,2009,mid,76,52.99,0.29
+Harvest: Overdrive,PC,horror,2023,indie,68,26.99,0.06
+Harvest: Rebirth,Orbit,racing,2019,indie,69,15.99,0.03
+Harvest: Reloaded,Nova,racing,2019,mid,68,46.99,0.37
+Harvest: Shadows Rising,Pocket,platformer,2005,mid,53,28.99,0.04
+Harvest: Uprising,Pocket,platformer,2017,indie,65,16.99,0.07
+Harvestbound,PC,puzzle,2023,mid,73,46.99,0.25
+Hollow Bastion,PC,simulation,2008,major,87,59.99,2.51
+Hollow Circuit,Nova,strategy,2019,mid,72,45.99,0.16
+Hollow Citadel,Nova,strategy,2021,mid,50,45.99,0.16
+Hollow Driftwood,Orbit,simulation,2024,major,66,69.99,2.93
+Hollow Dungeon,PC,strategy,2011,indie,53,17.99,0.01
+Hollow Expanse,PC,racing,2015,indie,74,17.99,0.02
+Hollow Garden,Orbit,shooter,2017,mid,79,33.99,0.12
+Hollow Horizon,Pocket,action,2022,indie,98,12.99,0.19
+Hollow Kart,PC,racing,2018,indie,76,16.99,0.13
+Hollow Kingdom,Orbit,sports,2006,major,93,59.99,1.97
+Hollow League,Pocket,racing,2021,major,72,69.99,0.34
+Hollow Oracle,Orbit,sports,2011,major,73,59.99,0.09
+Hollow Reckoning,PC,racing,2012,major,88,59.99,0.7
+Hollow Signal,Orbit,racing,2013,major,69,59.99,1.0
+Hollow Starfall,PC,rpg,2013,indie,90,20.99,0.04
+Hollow Vanguard,Orbit,simulation,2006,mid,72,38.99,0.09
+Hollow Wasteland,PC,platformer,2012,mid,72,40.99,0.17
+Horizon II,Orbit,shooter,2024,indie,69,11.99,0.03
+Horizon III,PC,simulation,2016,indie,63,8.99,0.05
+Horizon IV,Nova,strategy,2011,major,94,59.99,1.12
+Horizon V,Pocket,puzzle,2016,indie,80,20.99,0.04
+Horizon of Bastion,PC,simulation,2005,mid,72,34.99,0.1
+Horizon of Circuit,Orbit,sports,2005,major,90,59.99,0.17
+Horizon of Citadel,Nova,platformer,2022,major,98,69.99,4.27
+Horizon of Expanse,Nova,action,2006,mid,83,36.99,0.03
+Horizon of Frontier,Orbit,shooter,2025,mid,53,34.99,0.21
+Horizon of Garden,PC,puzzle,2025,indie,69,25.99,0.03
+Horizon of Kart,Pocket,action,2011,mid,78,44.99,0.41
+Horizon of League,Orbit,sports,2008,mid,68,43.99,0.06
+Horizon of Signal,PC,action,2018,indie,55,19.99,0.01
+Horizon of Starfall,Pocket,rpg,2017,mid,82,30.99,0.08
+Horizon of Tidewater,Orbit,action,2021,indie,78,22.99,0.04
+Horizon: Awakening,Pocket,puzzle,2008,indie,64,13.99,0.01
+Horizon: Deep Dive,PC,puzzle,2016,indie,88,17.99,0.01
+Horizon: Final Lap,PC,simulation,2013,indie,98,15.99,0.1
+Horizon: Origins,PC,strategy,2019,indie,82,27.99,0.28
+Horizon: Overdrive,PC,puzzle,2007,mid,71,36.99,0.23
+Horizon: Rebirth,PC,rpg,2015,mid,85,33.99,0.49
+Horizon: Reloaded,Pocket,action,2011,indie,72,11.99,0.02
+Horizon: Shadows Rising,Cloud,shooter,2021,indie,88,9.99,0.14
+Horizon: Uprising,Orbit,rpg,2014,mid,70,49.99,0.05
+Horizonbound,Pocket,puzzle,2013,mid,59,45.99,0.12
+Infinite Bastion,Orbit,sports,2022,indie,79,8.99,0.03
+Infinite Circuit,Nova,horror,2010,indie,61,8.99,0.03
+Infinite Citadel,PC,rpg,2006,mid,83,53.99,0.15
+Infinite Driftwood,Orbit,horror,2016,mid,85,46.99,0.46
+Infinite Expanse,PC,platformer,2010,indie,78,22.99,0.02
+Infinite Garden,Orbit,shooter,2008,mid,71,49.99,0.1
+Infinite Harvest,Pocket,racing,2024,indie,71,13.99,0.04
+Infinite Horizon,PC,simulation,2016,indie,96,17.99,0.14
+Infinite Kart,Pocket,puzzle,2021,indie,69,13.99,0.03
+Infinite League,Nova,shooter,2007,major,78,59.99,0.71
+Infinite Oracle,Orbit,puzzle,2015,major,63,59.99,1.11
+Infinite Reckoning,Orbit,rpg,2015,indie,48,22.99,0.02
+Infinite Signal,Nova,sports,2009,mid,60,43.99,0.32
+Infinite Starfall,Nova,strategy,2020,mid,64,23.99,0.5
+Infinite Tidewater,Cloud,puzzle,2024,indie,74,31.99,0.02
+Infinite Wasteland,Nova,strategy,2016,indie,88,26.99,0.05
+Iron Bastion,PC,action,2012,indie,43,18.99,0.03
+Iron Citadel,PC,sports,2018,mid,78,19.99,0.12
+Iron Driftwood,Orbit,action,2024,mid,76,29.99,0.17
+Iron Dungeon,Nova,strategy,2010,indie,84,23.99,0.28
+Iron Expanse,Nova,strategy,2012,major,87,59.99,3.39
+Iron Frontier,Nova,racing,2007,major,68,59.99,0.3
+Iron Garden,Orbit,shooter,2010,mid,90,23.99,0.11
+Iron Harvest,PC,shooter,2008,mid,62,34.99,0.11
+Iron Kart,Orbit,horror,2013,major,94,59.99,0.67
+Iron Kingdom,PC,puzzle,2021,indie,76,8.99,0.02
+Iron League,Orbit,rpg,2019,indie,55,11.99,0.01
+Iron Oracle,Nova,horror,2008,indie,67,12.99,0.05
+Iron Reckoning,Nova,shooter,2006,major,87,59.99,0.46
+Iron Signal,Pocket,sports,2012,mid,80,26.99,0.37
+Iron Starfall,Orbit,sports,2015,major,82,59.99,0.47
+Iron Tidewater,Orbit,puzzle,2013,indie,83,14.99,0.03
+Iron Vanguard,Nova,strategy,2018,major,48,59.99,0.5
+Iron Wasteland,Pocket,puzzle,2016,indie,48,26.99,0.02
+Kart II,PC,platformer,2017,indie,66,21.99,0.03
+Kart III,Nova,sports,2013,indie,57,15.99,0.05
+Kart IV,Nova,shooter,2016,major,74,59.99,0.22
+Kart V,Nova,platformer,2010,mid,78,44.99,0.27
+Kart of Bastion,Orbit,shooter,2020,indie,47,24.99,0.01
+Kart of Circuit,PC,shooter,2019,indie,98,21.99,0.12
+Kart of Driftwood,Nova,platformer,2006,major,89,59.99,1.27
+Kart of Dungeon,Pocket,sports,2010,major,86,59.99,0.73
+Kart of Expanse,Nova,shooter,2006,major,84,59.99,1.14
+Kart of Garden,PC,shooter,2011,mid,74,42.99,0.06
+Kart of Harvest,Cloud,rpg,2025,indie,73,28.99,0.01
+Kart of Horizon,PC,racing,2019,major,74,59.99,1.05
+Kart of Oracle,PC,sports,2014,indie,55,16.99,0.01
+Kart of Reckoning,Nova,strategy,2014,indie,68,9.99,0.11
+Kart of Signal,Nova,platformer,2017,indie,64,20.99,0.7
+Kart of Tidewater,Pocket,strategy,2009,mid,92,33.99,0.39
+Kart of Vanguard,PC,sports,2012,indie,59,12.99,1.56
+Kart of Wasteland,PC,rpg,2010,indie,69,24.99,0.01
+Kart: Deep Dive,Orbit,shooter,2021,major,61,69.99,0.2
+Kart: Origins,PC,platformer,2017,indie,79,15.99,0.23
+Kart: Overdrive,PC,puzzle,2023,mid,92,38.99,0.18
+Kart: Rebirth,Pocket,action,2017,indie,89,11.99,0.05
+Kart: Reloaded,PC,puzzle,2017,indie,58,12.99,0.02
+Kart: Shadows Rising,Pocket,platformer,2005,indie,58,22.99,0.02
+Kart: Uprising,Nova,action,2017,major,96,59.99,0.92
+Kartbound,Nova,horror,2006,major,82,59.99,1.28
+Kingdom II,Nova,shooter,2022,indie,92,17.99,0.04
+Kingdom III,Nova,action,2020,indie,73,20.99,0.29
+Kingdom IV,Nova,sports,2015,mid,75,38.99,0.38
+Kingdom V,Cloud,shooter,2025,indie,44,18.99,1.72
+Kingdom of Bastion,Nova,platformer,2008,major,98,59.99,0.35
+Kingdom of Circuit,PC,simulation,2008,indie,78,10.99,0.03
+Kingdom of Citadel,PC,simulation,2022,indie,85,9.99,0.01
+Kingdom of Dungeon,PC,puzzle,2010,indie,57,19.99,0.01
+Kingdom of Expanse,Pocket,puzzle,2020,mid,76,39.99,0.12
+Kingdom of Frontier,PC,rpg,2020,mid,72,36.99,0.07
+Kingdom of Garden,Pocket,puzzle,2018,mid,75,42.99,0.19
+Kingdom of Harvest,PC,puzzle,2007,indie,90,32.99,2.6
+Kingdom of Horizon,Orbit,simulation,2020,indie,54,22.99,0.04
+Kingdom of League,Nova,strategy,2017,major,91,59.99,0.3
+Kingdom of Oracle,Nova,horror,2014,indie,69,19.99,0.05
+Kingdom of Signal,Orbit,sports,2018,mid,58,38.99,0.14
+Kingdom of Starfall,Nova,action,2016,mid,65,39.99,0.1
+Kingdom of Vanguard,Nova,shooter,2015,mid,72,30.99,0.15
+Kingdom: Awakening,Nova,sports,2023,major,66,69.99,2.42
+Kingdom: Deep Dive,Pocket,platformer,2020,indie,68,13.99,0.02
+Kingdom: Final Lap,Orbit,platformer,2016,major,76,59.99,9.56
+Kingdom: Legends,Pocket,platformer,2010,indie,54,20.99,0.19
+Kingdom: Origins,Orbit,horror,2017,indie,70,20.99,0.03
+Kingdom: Rebirth,PC,horror,2016,indie,67,14.99,0.04
+Kingdom: Reloaded,Orbit,shooter,2019,indie,81,20.99,0.06
+Kingdom: Shadows Rising,PC,rpg,2016,mid,77,42.99,0.05
+Kingdom: Uprising,Orbit,simulation,2009,mid,78,42.99,0.03
+Kingdombound,PC,rpg,2021,mid,68,52.99,0.3
+Last Bastion,PC,action,2013,indie,62,20.99,0.01
+Last Circuit,Nova,sports,2005,major,75,59.99,1.52
+Last Driftwood,PC,simulation,2014,indie,49,15.99,0.02
+Last Dungeon,Orbit,racing,2023,mid,81,34.99,1.0
+Last Expanse,Orbit,strategy,2005,mid,66,58.99,0.14
+Last Frontier,PC,rpg,2011,indie,73,19.99,0.08
+Last Garden,Nova,shooter,2014,indie,61,25.99,0.01
+Last Harvest,Nova,sports,2016,indie,61,21.99,0.02
+Last Horizon,PC,shooter,2009,major,74,59.99,0.32
+Last Kart,Nova,shooter,2006,mid,69,37.99,0.03
+Last Kingdom,Nova,puzzle,2013,major,75,59.99,0.78
+Last Oracle,Orbit,shooter,2010,mid,69,31.99,0.15
+Last Signal,Orbit,rpg,2020,mid,94,49.99,0.03
+Last Tidewater,PC,strategy,2023,indie,77,14.99,0.73
+Last Vanguard,Nova,sports,2005,major,80,59.99,0.5
+Last Wasteland,PC,racing,2008,mid,82,35.99,0.02
+League II,Pocket,puzzle,2017,indie,59,21.99,0.01
+League III,PC,strategy,2007,mid,91,33.99,0.16
+League IV,Orbit,shooter,2005,mid,57,41.99,0.05
+League V,Nova,sports,2022,major,78,69.99,0.14
+League of Bastion,Nova,action,2020,indie,67,4.99,0.05
+League of Circuit,PC,strategy,2017,mid,84,50.99,0.2
+League of Citadel,PC,racing,2019,indie,60,15.99,0.03
+League of Driftwood,PC,horror,2019,indie,76,17.99,0.02
+League of Expanse,Nova,shooter,2014,indie,79,17.99,0.11
+League of Frontier,PC,shooter,2014,mid,73,34.99,0.03
+League of Harvest,Nova,puzzle,2010,major,80,59.99,0.13
+League of Kart,Orbit,racing,2018,major,62,59.99,0.56
+League of Oracle,Orbit,sports,2021,major,67,69.99,0.12
+League of Reckoning,Nova,racing,2014,major,67,59.99,0.32
+League of Signal,PC,puzzle,2007,mid,73,37.99,0.04
+League of Starfall,Orbit,sports,2011,major,83,59.99,0.38
+League of Tidewater,Orbit,simulation,2019,mid,75,33.99,0.25
+League of Wasteland,PC,rpg,2010,mid,80,19.99,0.16
+League: Deep Dive,Nova,sports,2023,indie,92,15.99,0.06
+League: Final Lap,PC,rpg,2009,indie,57,22.99,0.02
+League: Legends,Cloud,shooter,2020,mid,69,33.99,0.05
+League: Origins,Nova,sports,2011,indie,89,23.99,0.09
+League: Overdrive,Pocket,rpg,2014,mid,50,43.99,0.06
+League: Rebirth,PC,strategy,2018,indie,96,26.99,0.19
+League: Reloaded,Cloud,rpg,2021,major,98,69.99,1.76
+League: Shadows Rising,PC,horror,2015,major,83,59.99,0.69
+League: Uprising,Nova,racing,2018,indie,80,12.99,0.08
+Leaguebound,Nova,shooter,2017,indie,75,17.99,0.14
+Lost Bastion,PC,racing,2024,indie,70,21.99,0.01
+Lost Circuit,PC,simulation,2011,major,70,59.99,0.13
+Lost Citadel,PC,puzzle,2008,indie,66,14.99,0.01
+Lost Driftwood,PC,racing,2009,indie,66,16.99,0.03
+Lost Expanse,Orbit,shooter,2008,mid,69,34.99,0.29
+Lost Frontier,Pocket,shooter,2010,mid,72,43.99,0.2
+Lost Garden,Nova,action,2014,major,67,59.99,5.58
+Lost Horizon,PC,action,2019,mid,66,35.99,0.25
+Lost Kingdom,Nova,simulation,2025,indie,96,14.99,0.08
+Lost League,Cloud,shooter,2025,indie,73,16.99,0.1
+Lost Oracle,PC,sports,2014,indie,59,15.99,0.05
+Lost Reckoning,Orbit,action,2013,indie,67,14.99,0.01
+Lost Signal,Cloud,shooter,2024,major,76,69.99,0.68
+Lost Starfall,Orbit,action,2015,mid,64,32.99,0.03
+Lost Tidewater,Nova,sports,2016,mid,61,36.99,0.04
+Lost Wasteland,Cloud,simulation,2021,mid,77,27.99,0.03
+Neon Bastion,PC,simulation,2010,indie,71,25.99,0.05
+Neon Circuit,PC,simulation,2005,indie,73,12.99,0.18
+Neon Citadel,PC,puzzle,2020,indie,65,14.99,0.01
+Neon Driftwood,Nova,puzzle,2006,major,70,59.99,0.87
+Neon Expanse,Cloud,simulation,2022,indie,62,22.99,0.01
+Neon Garden,Orbit,racing,2023,indie,75,6.99,0.01
+Neon Harvest,Nova,puzzle,2011,major,98,59.99,0.92
+Neon Horizon,PC,shooter,2019,indie,86,17.99,0.02
+Neon Kart,Orbit,sports,2022,mid,90,27.99,0.38
+Neon Kingdom,Nova,horror,2018,mid,67,38.99,0.17
+Neon League,Nova,puzzle,2017,mid,64,44.99,0.01
+Neon Oracle,Nova,horror,2010,mid,86,36.99,0.44
+Neon Reckoning,PC,sports,2016,indie,82,18.99,0.07
+Neon Signal,PC,simulation,2023,mid,66,28.99,0.37
+Neon Starfall,Orbit,sports,2005,mid,76,39.99,0.18
+Neon Vanguard,PC,action,2005,mid,72,43.99,0.3
+Neon Wasteland,Pocket,sports,2024,mid,80,25.99,0.49
+Oracle II,Nova,puzzle,2010,major,72,59.99,0.08
+Oracle III,Nova,shooter,2012,major,84,59.99,1.8
+Oracle IV,Nova,action,2012,mid,89,25.99,0.36
+Oracle V,Orbit,shooter,2011,major,72,59.99,0.26
+Oracle of Citadel,Orbit,platformer,2005,major,85,59.99,1.09
+Oracle of Dungeon,Nova,racing,2014,indie,65,17.99,0.03
+Oracle of Expanse,Orbit,sports,2013,mid,69,33.99,0.34
+Oracle of Garden,Orbit,rpg,2012,mid,78,40.99,0.09
+Oracle of Horizon,PC,horror,2020,indie,74,22.99,0.01
+Oracle of Kart,Nova,puzzle,2013,mid,84,40.99,0.05
+Oracle of League,Pocket,horror,2005,indie,74,26.99,0.01
+Oracle of Reckoning,PC,sports,2018,indie,87,9.99,0.01
+Oracle of Vanguard,Nova,platformer,2017,mid,67,59.99,0.21
+Oracle of Wasteland,Orbit,rpg,2014,major,61,59.99,0.33
+Oracle: Awakening,PC,puzzle,2012,indie,81,28.99,0.02
+Oracle: Deep Dive,Nova,shooter,2005,mid,92,28.99,2.11
+Oracle: Final Lap,Pocket,puzzle,2015,indie,44,19.99,0.02
+Oracle: Legends,Orbit,shooter,2015,mid,86,49.99,0.14
+Oracle: Origins,Nova,sports,2016,mid,78,49.99,0.3
+Oracle: Overdrive,PC,platformer,2025,indie,92,24.99,0.07
+Oracle: Rebirth,PC,simulation,2005,mid,61,54.99,0.06
+Oracle: Reloaded,PC,racing,2018,indie,72,13.99,0.02
+Oracle: Shadows Rising,Pocket,rpg,2023,indie,73,18.99,0.09
+Oracle: Uprising,PC,puzzle,2018,major,69,59.99,0.32
+Oraclebound,Orbit,racing,2014,major,92,59.99,3.12
+Quantum Bastion,PC,strategy,2011,indie,77,25.99,0.06
+Quantum Circuit,Pocket,platformer,2025,indie,64,16.99,0.05
+Quantum Citadel,Orbit,sports,2011,mid,69,34.99,0.03
+Quantum Driftwood,Nova,shooter,2025,major,78,69.99,1.08
+Quantum Dungeon,Pocket,platformer,2007,indie,70,21.99,0.05
+Quantum Expanse,Orbit,shooter,2005,mid,78,41.99,0.45
+Quantum Frontier,PC,simulation,2023,indie,78,25.99,0.03
+Quantum Garden,Orbit,sports,2009,major,83,59.99,0.92
+Quantum Harvest,Orbit,platformer,2022,mid,71,45.99,0.17
+Quantum Horizon,Pocket,simulation,2013,mid,86,53.99,0.19
+Quantum Kart,PC,rpg,2006,indie,60,14.99,0.04
+Quantum League,PC,puzzle,2010,indie,77,14.99,0.11
+Quantum Oracle,Cloud,racing,2025,mid,59,55.99,0.09
+Quantum Signal,PC,puzzle,2009,mid,67,49.99,0.04
+Quantum Starfall,PC,action,2020,indie,88,5.99,0.16
+Quantum Tidewater,PC,action,2005,major,73,59.99,0.38
+Quantum Vanguard,PC,puzzle,2008,mid,82,31.99,0.03
+Quantum Wasteland,Nova,action,2011,indie,72,7.99,0.12
+Reckoning II,Orbit,rpg,2011,major,65,59.99,0.41
+Reckoning III,Orbit,horror,2020,indie,47,20.99,0.04
+Reckoning IV,Pocket,action,2014,indie,38,21.99,0.05
+Reckoning V,PC,simulation,2010,mid,74,43.99,0.03
+Reckoning of Bastion,Orbit,racing,2012,mid,64,43.99,0.24
+Reckoning of Circuit,Nova,sports,2015,mid,58,44.99,0.14
+Reckoning of Citadel,Orbit,strategy,2021,indie,61,17.99,0.1
+Reckoning of Driftwood,Nova,racing,2014,mid,70,39.99,0.03
+Reckoning of Expanse,PC,puzzle,2016,indie,83,8.99,0.06
+Reckoning of Frontier,PC,racing,2011,indie,79,19.99,0.05
+Reckoning of Harvest,Cloud,platformer,2023,mid,96,38.99,1.24
+Reckoning of Horizon,PC,puzzle,2016,mid,98,37.99,0.2
+Reckoning of Kingdom,Pocket,simulation,2008,mid,82,29.99,0.1
+Reckoning of League,PC,rpg,2009,mid,68,36.99,0.26
+Reckoning of Oracle,Cloud,action,2025,indie,72,20.99,0.01
+Reckoning of Signal,Orbit,shooter,2021,major,58,69.99,3.39
+Reckoning of Starfall,Nova,shooter,2010,major,72,59.99,0.72
+Reckoning of Vanguard,Orbit,sports,2023,mid,61,39.99,0.02
+Reckoning of Wasteland,Nova,shooter,2011,mid,57,24.99,0.24
+Reckoning: Awakening,Nova,sports,2007,major,92,59.99,0.89
+Reckoning: Legends,Orbit,horror,2008,mid,92,44.99,0.23
+Reckoning: Origins,Orbit,horror,2014,mid,60,26.99,0.04
+Reckoning: Overdrive,PC,rpg,2018,mid,88,54.99,0.21
+Reckoning: Rebirth,Nova,action,2007,major,65,59.99,0.07
+Reckoning: Reloaded,Nova,action,2025,major,80,69.99,0.22
+Reckoning: Shadows Rising,PC,shooter,2009,major,77,59.99,2.51
+Reckoning: Uprising,PC,racing,2021,indie,58,13.99,0.06
+Reckoningbound,Orbit,shooter,2012,major,78,59.99,4.51
+Rogue Circuit,Pocket,rpg,2008,indie,80,17.99,0.09
+Rogue Citadel,PC,strategy,2025,indie,66,20.99,0.02
+Rogue Driftwood,PC,horror,2007,indie,77,21.99,0.14
+Rogue Dungeon,PC,shooter,2023,indie,56,26.99,0.04
+Rogue Expanse,PC,simulation,2011,major,74,59.99,0.21
+Rogue Frontier,PC,strategy,2008,indie,86,24.99,0.06
+Rogue Garden,Nova,horror,2021,major,75,69.99,0.16
+Rogue Harvest,PC,simulation,2024,indie,74,28.99,0.04
+Rogue Horizon,PC,strategy,2005,indie,50,23.99,0.01
+Rogue Kart,Orbit,shooter,2025,major,82,69.99,1.62
+Rogue Kingdom,PC,strategy,2018,mid,56,32.99,0.02
+Rogue League,Pocket,platformer,2017,major,71,59.99,0.43
+Rogue Oracle,Pocket,rpg,2011,mid,73,36.99,0.02
+Rogue Reckoning,PC,simulation,2008,mid,75,40.99,0.13
+Rogue Starfall,Nova,simulation,2010,mid,63,28.99,0.2
+Rogue Tidewater,Nova,racing,2015,mid,67,38.99,0.01
+Rogue Vanguard,PC,platformer,2007,indie,96,18.99,0.09
+Rogue Wasteland,PC,platformer,2006,major,77,59.99,0.42
+Savage Circuit,PC,puzzle,2008,mid,76,41.99,0.13
+Savage Citadel,Nova,shooter,2014,major,76,59.99,0.85
+Savage Driftwood,Orbit,puzzle,2005,major,69,59.99,0.23
+Savage Dungeon,Orbit,shooter,2006,major,78,59.99,0.28
+Savage Expanse,Pocket,simulation,2015,indie,62,19.99,1.33
+Savage Frontier,Nova,horror,2014,major,69,59.99,0.07
+Savage Harvest,Cloud,strategy,2022,indie,73,25.99,0.06
+Savage Horizon,Orbit,sports,2009,mid,69,39.99,0.06
+Savage Kart,Orbit,rpg,2019,major,74,59.99,0.25
+Savage Kingdom,Orbit,racing,2013,major,76,59.99,0.57
+Savage League,Orbit,racing,2019,major,78,59.99,2.38
+Savage Reckoning,PC,puzzle,2007,indie,77,22.99,0.02
+Savage Signal,Orbit,platformer,2016,major,67,59.99,0.22
+Savage Starfall,Pocket,rpg,2010,indie,93,5.99,0.57
+Savage Tidewater,Orbit,shooter,2011,mid,72,51.99,0.07
+Savage Wasteland,PC,simulation,2021,indie,82,9.99,0.03
+Signal II,PC,simulation,2013,indie,67,23.99,0.17
+Signal III,Nova,puzzle,2020,indie,58,14.99,0.1
+Signal IV,Orbit,shooter,2008,major,84,59.99,1.74
+Signal V,Orbit,puzzle,2010,mid,64,53.99,0.05
+Signal of Bastion,PC,puzzle,2014,mid,87,38.99,0.02
+Signal of Circuit,Pocket,simulation,2015,indie,84,21.99,0.01
+Signal of Citadel,PC,puzzle,2011,indie,66,29.99,0.01
+Signal of Driftwood,PC,rpg,2023,mid,78,29.99,0.25
+Signal of Garden,PC,racing,2015,indie,62,23.99,0.02
+Signal of Harvest,Pocket,platformer,2021,indie,56,25.99,0.03
+Signal of Horizon,Orbit,horror,2010,indie,61,10.99,0.02
+Signal of Reckoning,Orbit,platformer,2021,mid,75,36.99,0.17
+Signal of Starfall,Orbit,shooter,2014,indie,78,4.99,0.08
+Signal of Tidewater,Nova,action,2005,mid,71,53.99,0.19
+Signal of Wasteland,Orbit,simulation,2022,major,76,69.99,0.59
+Signal: Awakening,PC,rpg,2013,indie,70,14.99,0.06
+Signal: Deep Dive,Orbit,shooter,2018,major,98,59.99,0.5
+Signal: Final Lap,Nova,platformer,2008,indie,62,19.99,0.01
+Signal: Legends,Nova,shooter,2006,mid,52,45.99,0.05
+Signal: Origins,PC,strategy,2018,indie,76,8.99,0.07
+Signal: Overdrive,PC,shooter,2017,indie,81,8.99,0.15
+Signal: Rebirth,Nova,sports,2018,indie,67,25.99,0.08
+Signal: Reloaded,Pocket,horror,2022,indie,47,23.99,0.01
+Signal: Shadows Rising,Pocket,shooter,2023,major,83,69.99,0.36
+Signal: Uprising,Nova,strategy,2025,mid,66,30.99,0.02
+Signalbound,Pocket,action,2019,indie,63,19.99,0.08
+Silent Bastion,PC,sports,2011,major,86,59.99,0.21
+Silent Circuit,Nova,sports,2012,mid,75,19.99,0.07
+Silent Citadel,PC,shooter,2016,indie,67,21.99,0.08
+Silent Driftwood,Nova,racing,2013,mid,63,48.99,0.03
+Silent Dungeon,PC,simulation,2013,mid,65,37.99,0.16
+Silent Expanse,Nova,simulation,2009,major,76,59.99,1.73
+Silent Frontier,PC,sports,2016,indie,98,11.99,0.08
+Silent Garden,PC,sports,2015,mid,58,38.99,0.11
+Silent Harvest,PC,sports,2015,mid,68,42.99,0.26
+Silent Horizon,Nova,simulation,2022,major,55,69.99,0.25
+Silent Kingdom,PC,simulation,2014,major,79,59.99,0.64
+Silent League,Orbit,sports,2015,indie,65,15.99,0.08
+Silent Oracle,Pocket,sports,2015,indie,76,4.99,0.03
+Silent Reckoning,PC,platformer,2013,indie,76,19.99,0.06
+Silent Signal,Orbit,shooter,2020,major,92,69.99,0.85
+Silent Tidewater,Nova,action,2013,indie,51,19.99,0.01
+Silent Vanguard,PC,puzzle,2021,indie,81,20.99,0.03
+Silent Wasteland,Orbit,puzzle,2013,major,79,59.99,0.44
+Starfall II,Nova,simulation,2015,major,79,59.99,0.45
+Starfall III,Orbit,rpg,2011,major,65,59.99,0.1
+Starfall IV,Orbit,rpg,2011,major,81,59.99,0.22
+Starfall V,Orbit,sports,2010,indie,77,14.99,0.05
+Starfall of Bastion,Orbit,rpg,2013,mid,88,30.99,0.07
+Starfall of Circuit,Orbit,action,2012,major,55,59.99,0.23
+Starfall of Driftwood,Nova,rpg,2024,indie,69,18.99,0.02
+Starfall of Dungeon,Nova,shooter,2010,mid,70,38.99,0.08
+Starfall of Expanse,Nova,sports,2017,indie,87,17.99,0.29
+Starfall of Frontier,Orbit,shooter,2016,major,58,59.99,0.76
+Starfall of Garden,PC,puzzle,2017,indie,88,26.99,0.12
+Starfall of Horizon,Nova,sports,2018,indie,63,20.99,0.07
+Starfall of Kingdom,Orbit,sports,2006,major,71,59.99,1.83
+Starfall of League,Nova,puzzle,2005,mid,62,49.99,0.06
+Starfall of Reckoning,PC,horror,2008,mid,68,33.99,0.21
+Starfall of Signal,Pocket,puzzle,2012,indie,47,9.99,0.01
+Starfall of Tidewater,Nova,horror,2017,major,58,59.99,3.7
+Starfall of Vanguard,Nova,strategy,2009,major,79,59.99,2.35
+Starfall of Wasteland,Orbit,rpg,2006,major,74,59.99,0.63
+Starfall: Awakening,Nova,sports,2025,major,84,69.99,0.27
+Starfall: Deep Dive,Nova,rpg,2008,indie,84,14.99,0.05
+Starfall: Final Lap,Nova,strategy,2011,indie,65,10.99,0.04
+Starfall: Legends,Pocket,rpg,2010,mid,55,36.99,0.18
+Starfall: Origins,Nova,racing,2008,mid,71,39.99,0.02
+Starfall: Overdrive,PC,racing,2021,indie,96,32.99,0.06
+Starfall: Rebirth,Orbit,sports,2007,mid,71,39.99,0.29
+Starfall: Reloaded,PC,puzzle,2006,indie,88,20.99,0.02
+Starfall: Shadows Rising,PC,rpg,2016,indie,65,14.99,0.05
+Starfall: Uprising,Orbit,platformer,2006,major,82,59.99,0.87
+Starfallbound,Pocket,horror,2025,indie,74,26.99,0.01
+Tidewater II,Orbit,sports,2016,mid,80,37.99,1.22
+Tidewater III,PC,horror,2014,indie,96,23.99,0.15
+Tidewater IV,Nova,sports,2006,major,95,59.99,0.97
+Tidewater V,Nova,puzzle,2006,major,79,59.99,1.01
+Tidewater of Bastion,Nova,sports,2020,major,77,69.99,1.23
+Tidewater of Circuit,Pocket,sports,2011,mid,66,42.99,0.09
+Tidewater of Driftwood,Pocket,rpg,2022,indie,60,15.99,0.02
+Tidewater of Dungeon,Orbit,shooter,2020,indie,98,25.99,0.12
+Tidewater of Expanse,Orbit,horror,2024,mid,78,36.99,0.22
+Tidewater of Frontier,Cloud,puzzle,2020,indie,64,14.99,0.02
+Tidewater of Garden,Nova,shooter,2025,major,74,69.99,0.09
+Tidewater of Harvest,PC,racing,2011,indie,87,29.99,0.03
+Tidewater of Horizon,PC,shooter,2014,indie,77,16.99,0.1
+Tidewater of Kart,PC,action,2011,indie,82,14.99,0.12
+Tidewater of Kingdom,Pocket,puzzle,2018,mid,76,34.99,0.13
+Tidewater of League,Nova,strategy,2012,major,94,59.99,0.34
+Tidewater of Oracle,Nova,horror,2009,major,89,59.99,2.3
+Tidewater of Reckoning,PC,platformer,2009,indie,85,21.99,0.03
+Tidewater of Vanguard,PC,horror,2007,major,73,59.99,0.32
+Tidewater of Wasteland,Orbit,strategy,2022,major,87,69.99,0.8
+Tidewater: Awakening,PC,simulation,2015,major,83,59.99,1.15
+Tidewater: Deep Dive,Orbit,sports,2019,mid,61,45.99,0.15
+Tidewater: Final Lap,PC,platformer,2014,indie,98,23.99,5.68
+Tidewater: Legends,PC,puzzle,2018,indie,69,16.99,0.07
+Tidewater: Origins,Nova,strategy,2025,indie,61,25.99,0.06
+Tidewater: Overdrive,PC,platformer,2015,mid,81,38.99,0.12
+Tidewater: Rebirth,Pocket,strategy,2009,mid,78,32.99,0.21
+Tidewater: Reloaded,Nova,action,2005,major,72,59.99,0.32
+Tidewater: Shadows Rising,Nova,racing,2025,indie,72,14.99,0.07
+Tidewater: Uprising,Orbit,sports,2013,mid,66,48.99,0.04
+Tidewaterbound,Pocket,racing,2024,major,89,69.99,1.35
+Tiny Bastion,Orbit,puzzle,2019,indie,76,18.99,0.01
+Tiny Citadel,Orbit,shooter,2008,mid,65,32.99,0.05
+Tiny Driftwood,Orbit,platformer,2012,major,72,59.99,0.18
+Tiny Dungeon,Pocket,puzzle,2011,indie,56,23.99,0.06
+Tiny Expanse,Orbit,sports,2008,major,64,59.99,0.54
+Tiny Garden,PC,shooter,2015,mid,53,46.99,0.04
+Tiny Harvest,PC,racing,2014,major,71,59.99,0.55
+Tiny Kart,PC,racing,2018,indie,89,19.99,0.02
+Tiny Kingdom,PC,action,2005,indie,96,19.99,0.13
+Tiny Oracle,PC,racing,2006,mid,72,54.99,0.76
+Tiny Reckoning,Nova,simulation,2015,major,83,59.99,0.84
+Tiny Signal,PC,action,2013,indie,77,19.99,2.0
+Tiny Starfall,Nova,action,2007,mid,63,27.99,0.09
+Tiny Tidewater,Nova,puzzle,2017,mid,78,31.99,0.03
+Tiny Wasteland,Nova,strategy,2005,major,69,59.99,1.28
+Vanguard II,Cloud,racing,2022,indie,65,20.99,0.06
+Vanguard III,Cloud,racing,2020,mid,65,32.99,0.12
+Vanguard IV,Nova,shooter,2005,major,76,59.99,0.85
+Vanguard V,Orbit,rpg,2017,mid,57,35.99,0.09
+Vanguard of Circuit,Pocket,strategy,2005,indie,75,28.99,0.04
+Vanguard of Citadel,Pocket,rpg,2012,mid,78,43.99,0.62
+Vanguard of Driftwood,PC,shooter,2011,major,63,59.99,1.19
+Vanguard of Dungeon,PC,platformer,2024,indie,70,26.99,0.18
+Vanguard of Frontier,Pocket,simulation,2011,indie,76,20.99,0.06
+Vanguard of Garden,Orbit,platformer,2025,indie,80,16.99,0.1
+Vanguard of Harvest,Pocket,simulation,2019,mid,74,49.99,0.06
+Vanguard of Horizon,Orbit,strategy,2022,major,67,69.99,0.3
+Vanguard of League,Nova,sports,2020,indie,80,19.99,0.07
+Vanguard of Oracle,PC,platformer,2008,mid,79,39.99,0.13
+Vanguard of Reckoning,Orbit,platformer,2007,major,70,59.99,3.1
+Vanguard of Starfall,Nova,platformer,2014,indie,66,18.99,0.01
+Vanguard of Tidewater,Nova,sports,2018,major,61,59.99,1.47
+Vanguard of Wasteland,Orbit,strategy,2025,indie,90,12.99,0.33
+Vanguard: Awakening,PC,action,2007,indie,30,26.99,0.01
+Vanguard: Deep Dive,PC,platformer,2020,indie,67,13.99,0.03
+Vanguard: Final Lap,PC,sports,2020,indie,78,26.99,0.05
+Vanguard: Legends,Orbit,strategy,2010,major,56,59.99,1.22
+Vanguard: Origins,PC,strategy,2005,indie,80,13.99,0.03
+Vanguard: Overdrive,PC,sports,2018,mid,58,30.99,0.08
+Vanguard: Rebirth,Pocket,strategy,2016,indie,93,21.99,0.33
+Vanguard: Reloaded,Orbit,sports,2009,major,98,59.99,0.8
+Vanguard: Shadows Rising,PC,puzzle,2021,indie,79,20.99,0.09
+Vanguard: Uprising,Nova,horror,2024,indie,88,8.99,0.04
+Vanguardbound,Orbit,platformer,2008,mid,62,24.99,0.03
+Wasteland II,PC,racing,2022,mid,73,43.99,0.14
+Wasteland III,PC,simulation,2013,indie,64,5.99,0.11
+Wasteland IV,PC,platformer,2010,indie,90,22.99,0.1
+Wasteland V,Nova,horror,2014,indie,59,23.99,0.03
+Wasteland of Bastion,Orbit,rpg,2021,mid,78,44.99,0.16
+Wasteland of Citadel,Nova,strategy,2022,major,91,69.99,0.65
+Wasteland of Driftwood,Pocket,strategy,2012,indie,58,13.99,0.08
+Wasteland of Dungeon,PC,puzzle,2010,mid,61,40.99,0.02
+Wasteland of Harvest,Nova,puzzle,2024,major,74,69.99,1.91
+Wasteland of Horizon,Pocket,platformer,2024,mid,84,42.99,1.09
+Wasteland of Kart,Nova,shooter,2015,major,71,59.99,0.97
+Wasteland of League,PC,rpg,2018,indie,83,24.99,0.04
+Wasteland of Oracle,Pocket,platformer,2014,mid,71,40.99,0.23
+Wasteland of Signal,PC,platformer,2022,major,92,69.99,3.02
+Wasteland of Tidewater,PC,shooter,2014,mid,90,55.99,0.12
+Wasteland: Awakening,Nova,action,2019,indie,57,22.99,0.02
+Wasteland: Deep Dive,PC,action,2007,indie,66,17.99,0.15
+Wasteland: Final Lap,PC,strategy,2011,major,65,59.99,0.18
+Wasteland: Legends,Nova,horror,2022,indie,91,23.99,0.05
+Wasteland: Origins,Nova,strategy,2018,major,82,59.99,0.3
+Wasteland: Overdrive,Orbit,rpg,2025,indie,72,6.99,0.15
+Wasteland: Rebirth,Pocket,rpg,2024,indie,62,16.99,0.01
+Wasteland: Reloaded,Nova,strategy,2008,major,68,59.99,0.6
+Wasteland: Uprising,PC,puzzle,2010,major,77,59.99,0.28
+Wastelandbound,PC,rpg,2008,indie,80,13.99,0.02
